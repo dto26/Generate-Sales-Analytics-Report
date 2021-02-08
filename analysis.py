@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 import calendar
 # local files
-from helper import Mode, load_relevant_data
+# from helper import Mode, load_relevant_data
 
 #Task 1: Read in data
 data = pd.read_csv('./data/clean_data/cleaned_data.csv')
@@ -18,6 +18,7 @@ def plot_monthly_sales():
     plt.xticks(months)
     plt.ylabel('Sales USD($)')
     plt.xlabel('Month Number')
+    plt.savefig('./resources/monthly_sales_plot.png', dpi=500)
     plt.show()
 
 # Question 2: Which countries were sold in the most?
@@ -30,6 +31,7 @@ def plot_country_sales():
     plt.xticks(keys, rotation='vertical', size=8)
     plt.ylabel('Sales USD($)')
     plt.xlabel('Month number')
+    plt.savefig('./resources/country_sales.png', dpi=500)
     plt.show()
 
 # Question 3: Which products sold the most?
@@ -39,6 +41,7 @@ def plot_product_sales():
     keys = [pair for pair, df in prod_group]
     plt.bar(keys, quantity_ordered)
     plt.xticks(keys, rotation='vertical', size=8)
+    plt.savefig('./resources/product_sales.png', dpi=500)
     plt.show()
 
 # Question 4: What is the correlation between sale price and quantity ordered?
@@ -59,11 +62,12 @@ def plot_orders_vs_price():
     ax1.set_ylabel('Quantity Ordered', color='b')
     ax2.set_ylabel('Price USD($)', color='g')
 
+    plt.savefig('./resources/orders_vs_price.png', dpi=500)
     fig.show()
 
 
 # uncomment for testing
 # plot_monthly_sales()
-# plot_country_sales()
-# plot_product_sales()
+plot_country_sales()
+plot_product_sales()
 plot_orders_vs_price()
