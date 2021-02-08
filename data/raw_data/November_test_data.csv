@@ -1,0 +1,2257 @@
+OrderID,OrderDate,Country,Product,QuantityOrdered,Price
+1566643,2020-11-01,Sint Maarten (Dutch part),pencil,6,0.99
+1565542,2020-11-01,Cuba,mouse pad,10,5.99
+1565112,2020-11-01,India,charging cable,15,11.95
+1566620,2020-11-01,"Micronesia, Federated States of",laptop,5,900.0
+1565546,2020-11-01,Bahrain,wireless mouse,9,25.99
+1564776,2020-11-01,Bosnia and Herzegovina,laptop,9,900.0
+1566450,2020-11-01,Hungary,laptop,1,900.0
+1566650,2020-11-01,United States Minor Outlying Islands,pencil,4,0.99
+1565370,2020-11-01,Ukraine,pencil,5,0.99
+1565549,2020-11-01,Panama,wireless mouse,14,25.99
+1564587,2020-11-01,Montserrat,laptop,12,900.0
+1566538,2020-11-01,Saint Pierre and Miquelon,laptop,13,900.0
+1566479,2020-11-01,Montserrat,notebook,5,4.99
+1565139,2020-11-01,Nicaragua,notebook,12,4.99
+1565555,2020-11-01,Albania,pen,9,1.25
+1565348,2020-11-01,Uzbekistan,eraser,3,0.49
+1565391,2020-11-01,Trinidad and Tobago,laptop,12,900.0
+1565338,2020-11-01,El Salvador,headphones,12,99.99
+1565859,2020-11-01,Mayotte,mouse pad,7,5.99
+1566270,2020-11-01,"Korea, Democratic People's Republic of",laptop,1,900.0
+1565029,2020-11-01,Bulgaria,mouse pad,12,5.99
+1566374,2020-11-01,Liberia,laptop,11,900.0
+1565464,2020-11-01,Botswana,notebook,10,4.99
+1565041,2020-11-01,Portugal,notebook,11,4.99
+1565671,2020-11-01,Liberia,mouse pad,2,5.99
+1565446,2020-11-01,Barbados,charging cable,2,11.95
+1566421,2020-11-01,Bhutan,AA batteries (4-pack),12,3.99
+1565804,2020-11-01,Djibouti,mouse pad,1,5.99
+1566135,2020-11-01,Montenegro,pencil,4,0.99
+1566794,2020-11-01,Sierra Leone,wireless mouse,11,25.99
+1565416,2020-11-01,New Zealand,pencil,14,0.99
+1565520,2020-11-01,Barbados,headphones,15,99.99
+1564967,2020-11-01,Lebanon,mouse pad,1,5.99
+1566570,2020-11-01,Barbados,wireless mouse,2,25.99
+1566644,2020-11-01,Saint Barthélemy,mouse pad,5,5.99
+1565709,2020-11-01,Sudan,laptop,15,900.0
+1565561,2020-11-01,Falkland Islands (Malvinas),wireless mouse,4,25.99
+1566776,2020-11-01,Kazakhstan,headphones,4,99.99
+1564664,2020-11-01,United Kingdom,notebook,10,4.99
+1565957,2020-11-01,French Southern Territories,laptop,7,900.0
+1565253,2020-11-01,Latvia,ruler,11,3.99
+1564678,2020-11-01,Liberia,headphones,13,99.99
+1565756,2020-11-01,Philippines,pen,3,1.25
+1564554,2020-11-01,Zambia,wireless mouse,1,25.99
+1566338,2020-11-01,Cabo Verde,charging cable,15,11.95
+1566403,2020-11-01,Bosnia and Herzegovina,charging cable,6,11.95
+1566345,2020-11-01,Guatemala,wireless mouse,7,25.99
+1565950,2020-11-01,Singapore,notebook,9,4.99
+1566472,2020-11-01,Belgium,wireless mouse,2,25.99
+1564903,2020-11-01,Honduras,laptop,6,900.0
+1566359,2020-11-01,North Macedonia,laptop,7,900.0
+1564560,2020-11-01,Andorra,eraser,1,0.49
+1565595,2020-11-01,Cabo Verde,notebook,12,4.99
+1564562,2020-11-01,Niue,laptop,6,900.0
+1564905,2020-11-01,Equatorial Guinea,headphones,11,99.99
+1565844,2020-11-01,Hungary,notebook,6,4.99
+1566531,2020-11-01,Egypt,pencil,13,0.99
+1564910,2020-11-01,Panama,laptop,2,900.0
+1566616,2020-11-01,Wallis and Futuna,headphones,6,99.99
+1565720,2020-11-01,Bulgaria,wireless mouse,2,25.99
+1565177,2020-11-01,Yemen,headphones,4,99.99
+1566519,2020-11-01,Bahamas,pen,9,1.25
+1566458,2020-11-01,Heard Island and McDonald Islands,wireless mouse,15,25.99
+1565238,2020-11-01,Barbados,mouse pad,5,5.99
+1565243,2020-11-01,United Kingdom,charging cable,12,11.95
+1566241,2020-11-01,Saint Kitts and Nevis,mouse pad,7,5.99
+1564542,2020-11-01,Gabon,wireless mouse,10,25.99
+1564773,2020-11-01,"Micronesia, Federated States of",pen,5,1.25
+1566086,2020-11-02,Saudi Arabia,wireless mouse,7,25.99
+1565673,2020-11-02,Belarus,eraser,15,0.49
+1565480,2020-11-02,Iraq,ruler,5,3.99
+1565676,2020-11-02,Jordan,eraser,7,0.49
+1566294,2020-11-02,Germany,pencil,9,0.99
+1566371,2020-11-02,Slovenia,wireless mouse,9,25.99
+1565834,2020-11-02,Greece,wireless mouse,14,25.99
+1564828,2020-11-02,Malawi,notebook,8,4.99
+1565502,2020-11-02,Slovenia,laptop,13,900.0
+1564981,2020-11-02,Guinea,laptop,10,900.0
+1565516,2020-11-02,Montenegro,notebook,7,4.99
+1565664,2020-11-02,Ukraine,charging cable,1,11.95
+1565642,2020-11-02,Belgium,mouse pad,3,5.99
+1565533,2020-11-02,Falkland Islands (Malvinas),pencil,4,0.99
+1565537,2020-11-02,Russian Federation,charging cable,4,11.95
+1564907,2020-11-02,,wireless mouse,4,25.99
+1565816,2020-11-02,Gambia,AA batteries (4-pack),5,3.99
+1565839,2020-11-02,French Southern Territories,mouse pad,14,5.99
+1565842,2020-11-02,Netherlands,notebook,4,4.99
+1565552,2020-11-02,"Bonaire, Sint Eustatius and Saba",eraser,8,0.49
+1566603,2020-11-02,"Moldova, Republic of",AA batteries (4-pack),2,3.99
+1566100,2020-11-02,Serbia,pencil,9,0.99
+1564986,2020-11-02,Central African Republic,laptop,2,900.0
+1564632,2020-11-02,New Zealand,charging cable,9,11.95
+1566008,2020-11-02,Kazakhstan,wireless mouse,8,25.99
+1565882,2020-11-02,Iceland,laptop,7,900.0
+1565022,2020-11-02,Heard Island and McDonald Islands,notebook,5,4.99
+1565140,2020-11-02,Cabo Verde,laptop,10,900.0
+1565933,2020-11-02,Guernsey,pencil,2,0.99
+1565334,2020-11-02,New Zealand,laptop,7,900.0
+1564775,2020-11-02,Anguilla,pen,2,1.25
+1565332,2020-11-02,Svalbard and Jan Mayen,wireless mouse,11,25.99
+1566168,2020-11-02,South Georgia and the South Sandwich Islands,mouse pad,14,5.99
+1566236,2020-11-02,Haiti,laptop,3,900.0
+1565176,2020-11-02,Eritrea,headphones,8,99.99
+1565722,2020-11-02,"Korea, Republic of",eraser,10,0.49
+1565738,2020-11-02,Malawi,headphones,4,99.99
+1565300,2020-11-02,Honduras,headphones,14,99.99
+1565284,2020-11-02,"Saint Helena, Ascension and Tristan da Cunha",pen,9,1.25
+1564749,2020-11-02,Trinidad and Tobago,pencil,11,0.99
+1566680,2020-11-02,Switzerland,notebook,10,4.99
+1566793,2020-11-02,Bahamas,charging cable,8,11.95
+1565759,2020-11-02,Cocos (Keeling) Islands,AA batteries (4-pack),4,3.99
+1566396,2020-11-02,Tunisia,AA batteries (4-pack),10,3.99
+1565971,2020-11-02,Egypt,headphones,7,99.99
+1566397,2020-11-02,"Moldova, Republic of",notebook,1,4.99
+1565240,2020-11-02,Cambodia,mouse pad,9,5.99
+1565358,2020-11-02,France,wireless mouse,15,25.99
+1566156,2020-11-02,Iraq,AA batteries (4-pack),15,3.99
+1565135,2020-11-02,Guatemala,wireless mouse,13,25.99
+1564593,2020-11-02,Jordan,AA batteries (4-pack),13,3.99
+1565418,2020-11-02,Netherlands,wireless mouse,3,25.99
+1565062,2020-11-02,El Salvador,laptop,1,900.0
+1566355,2020-11-02,Kiribati,charging cable,10,11.95
+1565130,2020-11-02,Senegal,charging cable,10,11.95
+1566782,2020-11-02,Mongolia,notebook,4,4.99
+1565077,2020-11-02,Luxembourg,laptop,14,900.0
+1566540,2020-11-02,Sri Lanka,laptop,2,900.0
+1564793,2020-11-02,Guinea,pen,6,1.25
+1565055,2020-11-02,Belgium,mouse pad,15,5.99
+1565404,2020-11-02,Faroe Islands,laptop,12,900.0
+1566036,2020-11-02,Barbados,ruler,2,3.99
+1564599,2020-11-02,Austria,AA batteries (4-pack),4,3.99
+1564809,2020-11-02,Jordan,notebook,7,4.99
+1566553,2020-11-02,Saint Kitts and Nevis,laptop,3,900.0
+1565118,2020-11-02,Honduras,headphones,1,99.99
+1566708,2020-11-02,Viet Nam,laptop,6,900.0
+1565408,2020-11-02,Honduras,laptop,10,900.0
+1564703,2020-11-02,Paraguay,pen,5,1.25
+1565766,2020-11-03,Namibia,AA batteries (4-pack),3,3.99
+1566049,2020-11-03,Australia,headphones,3,99.99
+1564756,2020-11-03,"Tanzania, United Republic of",mouse pad,4,5.99
+1565746,2020-11-03,Honduras,laptop,3,900.0
+1564792,2020-11-03,"Saint Helena, Ascension and Tristan da Cunha",laptop,3,900.0
+1566057,2020-11-03,Romania,pen,12,1.25
+1564779,2020-11-03,Ireland,mouse pad,6,5.99
+1564778,2020-11-03,Denmark,laptop,8,900.0
+1566578,2020-11-03,Belize,wireless mouse,7,25.99
+1566507,2020-11-03,Gambia,wireless mouse,12,25.99
+1566290,2020-11-03,Guernsey,charging cable,10,11.95
+1565622,2020-11-03,Russian Federation,mouse pad,10,5.99
+1565379,2020-11-03,Bosnia and Herzegovina,pencil,10,0.99
+1565378,2020-11-03,Western Sahara,wireless mouse,13,25.99
+1566245,2020-11-03,Congo,notebook,15,4.99
+1565154,2020-11-03,Qatar,notebook,4,4.99
+1566166,2020-11-03,Comoros,AA batteries (4-pack),10,3.99
+1566180,2020-11-03,French Southern Territories,notebook,13,4.99
+1566494,2020-11-03,Kazakhstan,mouse pad,3,5.99
+1565303,2020-11-03,Togo,wireless mouse,1,25.99
+1565389,2020-11-03,Cyprus,laptop,14,900.0
+1566224,2020-11-03,Lithuania,headphones,3,99.99
+1565192,2020-11-03,South Africa,notebook,6,4.99
+1565283,2020-11-03,"Palestine, State of",wireless mouse,13,25.99
+1565281,2020-11-03,Svalbard and Jan Mayen,laptop,7,900.0
+1565273,2020-11-03,French Guiana,laptop,9,900.0
+1565271,2020-11-03,Uganda,notebook,3,4.99
+1565267,2020-11-03,Heard Island and McDonald Islands,laptop,8,900.0
+1565236,2020-11-03,Sri Lanka,AA batteries (4-pack),11,3.99
+1565250,2020-11-03,Sri Lanka,charging cable,3,11.95
+1565189,2020-11-03,New Caledonia,charging cable,13,11.95
+1565626,2020-11-03,Ireland,charging cable,10,11.95
+1565393,2020-11-03,Central African Republic,headphones,7,99.99
+1566142,2020-11-03,"Korea, Democratic People's Republic of",pencil,4,0.99
+1566523,2020-11-03,Madagascar,charging cable,14,11.95
+1566475,2020-11-03,Falkland Islands (Malvinas),laptop,7,900.0
+1565566,2020-11-03,Guinea,pencil,5,0.99
+1564942,2020-11-03,Panama,notebook,4,4.99
+1565529,2020-11-03,Bhutan,headphones,10,99.99
+1566314,2020-11-03,New Zealand,notebook,12,4.99
+1564989,2020-11-03,Cook Islands,AA batteries (4-pack),10,3.99
+1566299,2020-11-03,Cyprus,laptop,12,900.0
+1565094,2020-11-03,Grenada,laptop,1,900.0
+1566292,2020-11-03,Togo,charging cable,7,11.95
+1566289,2020-11-03,Dominica,laptop,1,900.0
+1566481,2020-11-03,New Zealand,pen,9,1.25
+1565040,2020-11-03,Fiji,pencil,13,0.99
+1566636,2020-11-03,Romania,wireless mouse,15,25.99
+1566276,2020-11-03,Guinea-Bissau,mouse pad,6,5.99
+1565437,2020-11-03,Namibia,notebook,4,4.99
+1565430,2020-11-03,Guatemala,wireless mouse,14,25.99
+1565083,2020-11-03,Czechia,notebook,8,4.99
+1564732,2020-11-03,United Arab Emirates,wireless mouse,15,25.99
+1565775,2020-11-03,Tunisia,eraser,11,0.49
+1565590,2020-11-03,Kuwait,laptop,1,900.0
+1565925,2020-11-03,Saint Kitts and Nevis,mouse pad,10,5.99
+1565973,2020-11-03,Guam,pen,3,1.25
+1564711,2020-11-03,Cook Islands,eraser,12,0.49
+1566427,2020-11-03,Cayman Islands,laptop,7,900.0
+1565779,2020-11-03,Viet Nam,mouse pad,1,5.99
+1564691,2020-11-03,Georgia,ruler,10,3.99
+1564575,2020-11-03,Northern Mariana Islands,notebook,9,4.99
+1566563,2020-11-03,Saint Kitts and Nevis,wireless mouse,3,25.99
+1565892,2020-11-03,Portugal,charging cable,1,11.95
+1566772,2020-11-03,Canada,mouse pad,1,5.99
+1564553,2020-11-03,India,headphones,13,99.99
+1566398,2020-11-03,"Palestine, State of",laptop,7,900.0
+1564681,2020-11-03,El Salvador,mouse pad,11,5.99
+1564722,2020-11-03,Pitcairn,pencil,7,0.99
+1564650,2020-11-03,Libya,laptop,7,900.0
+1565788,2020-11-03,Egypt,laptop,1,900.0
+1564708,2020-11-03,Oman,notebook,3,4.99
+1566760,2020-11-03,Montenegro,wireless mouse,8,25.99
+1564651,2020-11-03,Saint Barthélemy,wireless mouse,7,25.99
+1564697,2020-11-03,Kuwait,laptop,10,900.0
+1564682,2020-11-03,"Bonaire, Sint Eustatius and Saba",eraser,1,0.49
+1564661,2020-11-03,Paraguay,pencil,5,0.99
+1566766,2020-11-03,Grenada,notebook,7,4.99
+1564660,2020-11-03,Puerto Rico,laptop,4,900.0
+1565857,2020-11-03,South Sudan,mouse pad,10,5.99
+1565021,2020-11-04,Bulgaria,mouse pad,14,5.99
+1566170,2020-11-04,Antarctica,laptop,8,900.0
+1565698,2020-11-04,Svalbard and Jan Mayen,notebook,6,4.99
+1565320,2020-11-04,Tunisia,pencil,9,0.99
+1564641,2020-11-04,Sint Maarten (Dutch part),wireless mouse,14,25.99
+1565392,2020-11-04,Saint Kitts and Nevis,AA batteries (4-pack),5,3.99
+1565499,2020-11-04,Brunei Darussalam,notebook,3,4.99
+1566302,2020-11-04,Saint Vincent and the Grenadines,mouse pad,15,5.99
+1566638,2020-11-04,Cameroon,mouse pad,13,5.99
+1566352,2020-11-04,Kuwait,laptop,2,900.0
+1564842,2020-11-04,Botswana,mouse pad,2,5.99
+1566055,2020-11-04,Kyrgyzstan,ruler,12,3.99
+1565327,2020-11-04,Sudan,notebook,2,4.99
+1565126,2020-11-04,Poland,pencil,13,0.99
+1565014,2020-11-04,Iraq,laptop,10,900.0
+1566256,2020-11-04,Ghana,eraser,5,0.49
+1564819,2020-11-04,Lesotho,charging cable,4,11.95
+1566437,2020-11-04,"Congo, The Democratic Republic of the",wireless mouse,10,25.99
+1565619,2020-11-04,Angola,laptop,10,900.0
+1564892,2020-11-04,Saint Vincent and the Grenadines,AA batteries (4-pack),4,3.99
+1565142,2020-11-04,Andorra,wireless mouse,4,25.99
+1565594,2020-11-04,Uzbekistan,pen,12,1.25
+1566158,2020-11-04,"Venezuela, Bolivarian Republic of",laptop,4,900.0
+1565355,2020-11-04,Austria,pencil,13,0.99
+1564586,2020-11-04,Faroe Islands,laptop,2,900.0
+1565361,2020-11-04,Bermuda,eraser,1,0.49
+1564886,2020-11-04,Russian Federation,charging cable,5,11.95
+1566281,2020-11-04,Saint Lucia,wireless mouse,8,25.99
+1565165,2020-11-04,"Virgin Islands, U.S.",laptop,11,900.0
+1566126,2020-11-04,Madagascar,wireless mouse,10,25.99
+1566510,2020-11-04,Niue,pen,12,1.25
+1566354,2020-11-04,Australia,wireless mouse,1,25.99
+1564760,2020-11-04,Ghana,AA batteries (4-pack),9,3.99
+1566604,2020-11-04,Liberia,eraser,8,0.49
+1564719,2020-11-04,Dominican Republic,mouse pad,5,5.99
+1565954,2020-11-04,Guyana,AA batteries (4-pack),11,3.99
+1566399,2020-11-04,Solomon Islands,pencil,10,0.99
+1566328,2020-11-04,"Moldova, Republic of",mouse pad,13,5.99
+1566555,2020-11-04,Paraguay,AA batteries (4-pack),3,3.99
+1566103,2020-11-04,,pencil,9,0.99
+1566675,2020-11-04,Libya,laptop,2,900.0
+1565786,2020-11-04,Sao Tome and Principe,wireless mouse,1,25.99
+1564931,2020-11-04,"Saint Helena, Ascension and Tristan da Cunha",eraser,2,0.49
+1566025,2020-11-04,Costa Rica,mouse pad,3,5.99
+1565553,2020-11-04,Saint Kitts and Nevis,pencil,8,0.99
+1566676,2020-11-04,Vanuatu,pencil,15,0.99
+1566453,2020-11-04,Myanmar,notebook,5,4.99
+1565774,2020-11-04,Macao,headphones,6,99.99
+1564786,2020-11-04,Ghana,charging cable,5,11.95
+1566388,2020-11-04,,mouse pad,7,5.99
+1564849,2020-11-04,Estonia,mouse pad,4,5.99
+1564666,2020-11-04,Myanmar,mouse pad,3,5.99
+1565912,2020-11-04,El Salvador,wireless mouse,9,25.99
+1566233,2020-11-04,Portugal,laptop,14,900.0
+1565840,2020-11-04,French Southern Territories,headphones,9,99.99
+1565388,2020-11-04,Tonga,wireless mouse,13,25.99
+1565301,2020-11-04,Slovakia,pencil,9,0.99
+1564777,2020-11-04,Viet Nam,wireless mouse,13,25.99
+1565896,2020-11-04,Belgium,charging cable,4,11.95
+1564858,2020-11-04,"Bonaire, Sint Eustatius and Saba",pencil,8,0.99
+1566136,2020-11-04,French Polynesia,mouse pad,3,5.99
+1565717,2020-11-04,Belarus,wireless mouse,8,25.99
+1566509,2020-11-04,,wireless mouse,9,25.99
+1564917,2020-11-04,Luxembourg,notebook,1,4.99
+1566562,2020-11-04,Guinea,eraser,15,0.49
+1565574,2020-11-04,Antigua and Barbuda,wireless mouse,8,25.99
+1565789,2020-11-04,Burkina Faso,notebook,10,4.99
+1566210,2020-11-04,South Africa,laptop,15,900.0
+1565723,2020-11-04,Viet Nam,headphones,3,99.99
+1565526,2020-11-04,Iraq,ruler,6,3.99
+1566759,2020-11-04,Italy,eraser,3,0.49
+1566284,2020-11-05,Morocco,wireless mouse,10,25.99
+1565461,2020-11-05,"Korea, Democratic People's Republic of",laptop,2,900.0
+1565059,2020-11-05,Bosnia and Herzegovina,wireless mouse,3,25.99
+1565441,2020-11-05,San Marino,charging cable,10,11.95
+1565872,2020-11-05,United Kingdom,AA batteries (4-pack),5,3.99
+1565468,2020-11-05,,headphones,9,99.99
+1564938,2020-11-05,Saint Lucia,ruler,13,3.99
+1566518,2020-11-05,Kiribati,laptop,8,900.0
+1565861,2020-11-05,French Southern Territories,headphones,6,99.99
+1565571,2020-11-05,Niger,mouse pad,2,5.99
+1565845,2020-11-05,Slovakia,pencil,15,0.99
+1564916,2020-11-05,Morocco,laptop,11,900.0
+1564965,2020-11-05,Malta,ruler,7,3.99
+1565525,2020-11-05,Antarctica,mouse pad,15,5.99
+1565514,2020-11-05,Bahamas,wireless mouse,4,25.99
+1564629,2020-11-05,Georgia,pencil,8,0.99
+1566333,2020-11-05,Wallis and Futuna,eraser,15,0.49
+1565511,2020-11-05,Fiji,laptop,15,900.0
+1565505,2020-11-05,Paraguay,notebook,5,4.99
+1565997,2020-11-05,,charging cable,2,11.95
+1566642,2020-11-05,"Korea, Democratic People's Republic of",eraser,9,0.49
+1566412,2020-11-05,Kenya,pencil,9,0.99
+1566090,2020-11-05,Anguilla,headphones,8,99.99
+1566115,2020-11-05,Kyrgyzstan,wireless mouse,3,25.99
+1565008,2020-11-05,Isle of Man,wireless mouse,6,25.99
+1565024,2020-11-05,Algeria,pencil,4,0.99
+1565580,2020-11-05,Jordan,laptop,4,900.0
+1565899,2020-11-05,Trinidad and Tobago,AA batteries (4-pack),2,3.99
+1564656,2020-11-05,Ecuador,charging cable,3,11.95
+1565900,2020-11-05,Gibraltar,laptop,1,900.0
+1566551,2020-11-05,Trinidad and Tobago,mouse pad,15,5.99
+1565668,2020-11-05,Curaçao,eraser,7,0.49
+1565129,2020-11-05,Suriname,pencil,15,0.99
+1566160,2020-11-05,Lebanon,laptop,6,900.0
+1564581,2020-11-05,Marshall Islands,laptop,2,900.0
+1564802,2020-11-05,Cyprus,eraser,4,0.49
+1566429,2020-11-05,Eritrea,wireless mouse,15,25.99
+1565693,2020-11-05,"Moldova, Republic of",charging cable,5,11.95
+1565701,2020-11-05,Kuwait,pencil,12,0.99
+1566038,2020-11-05,Ethiopia,notebook,15,4.99
+1565315,2020-11-05,Lao People's Democratic Republic,laptop,10,900.0
+1564709,2020-11-05,United States,mouse pad,1,5.99
+1566753,2020-11-05,Honduras,charging cable,7,11.95
+1565943,2020-11-05,Djibouti,laptop,11,900.0
+1565948,2020-11-05,Cyprus,wireless mouse,11,25.99
+1564563,2020-11-05,Gabon,headphones,8,99.99
+1565298,2020-11-05,Sweden,pencil,9,0.99
+1566440,2020-11-05,Ecuador,mouse pad,12,5.99
+1566755,2020-11-05,Spain,wireless mouse,6,25.99
+1564744,2020-11-05,Italy,eraser,14,0.49
+1564547,2020-11-05,"Congo, The Democratic Republic of the",pen,10,1.25
+1565376,2020-11-05,Tokelau,charging cable,7,11.95
+1565978,2020-11-05,Benin,mouse pad,2,5.99
+1565158,2020-11-05,Albania,eraser,14,0.49
+1566786,2020-11-05,Chad,pen,13,1.25
+1565115,2020-11-05,Monaco,mouse pad,13,5.99
+1565646,2020-11-05,Slovenia,pen,10,1.25
+1566645,2020-11-05,Russian Federation,charging cable,11,11.95
+1566056,2020-11-05,Kyrgyzstan,headphones,13,99.99
+1566701,2020-11-05,"Micronesia, Federated States of",laptop,6,900.0
+1565659,2020-11-05,Norway,charging cable,5,11.95
+1564941,2020-11-05,Liechtenstein,laptop,14,900.0
+1564688,2020-11-05,Madagascar,laptop,12,900.0
+1564831,2020-11-05,Sao Tome and Principe,wireless mouse,15,25.99
+1566151,2020-11-05,Australia,wireless mouse,13,25.99
+1566666,2020-11-06,Latvia,laptop,2,900.0
+1565244,2020-11-06,"Venezuela, Bolivarian Republic of",pencil,3,0.99
+1566216,2020-11-06,Zambia,notebook,8,4.99
+1566543,2020-11-06,Uzbekistan,AA batteries (4-pack),8,3.99
+1565426,2020-11-06,Angola,laptop,4,900.0
+1565211,2020-11-06,Timor-Leste,charging cable,11,11.95
+1566190,2020-11-06,Iraq,wireless mouse,5,25.99
+1566140,2020-11-06,Jordan,laptop,15,900.0
+1566670,2020-11-06,Georgia,headphones,5,99.99
+1565251,2020-11-06,Bhutan,charging cable,9,11.95
+1565216,2020-11-06,Puerto Rico,eraser,10,0.49
+1566679,2020-11-06,New Zealand,wireless mouse,1,25.99
+1565225,2020-11-06,Cyprus,charging cable,14,11.95
+1566221,2020-11-06,Eswatini,pen,2,1.25
+1566203,2020-11-06,Tuvalu,laptop,5,900.0
+1566444,2020-11-06,Mexico,pencil,10,0.99
+1565541,2020-11-06,Ghana,laptop,9,900.0
+1565239,2020-11-06,Belgium,mouse pad,3,5.99
+1565415,2020-11-06,Sierra Leone,charging cable,1,11.95
+1565547,2020-11-06,Grenada,wireless mouse,8,25.99
+1565964,2020-11-06,Croatia,AA batteries (4-pack),12,3.99
+1564958,2020-11-06,Sierra Leone,charging cable,1,11.95
+1566123,2020-11-06,Mexico,charging cable,5,11.95
+1566143,2020-11-06,Tokelau,AA batteries (4-pack),8,3.99
+1565114,2020-11-06,Philippines,wireless mouse,6,25.99
+1565873,2020-11-06,Spain,pencil,5,0.99
+1565362,2020-11-06,"Tanzania, United Republic of",charging cable,9,11.95
+1566631,2020-11-06,Wallis and Futuna,mouse pad,2,5.99
+1566285,2020-11-06,Svalbard and Jan Mayen,laptop,14,900.0
+1565138,2020-11-06,Vanuatu,wireless mouse,3,25.99
+1565349,2020-11-06,Japan,headphones,3,99.99
+1565003,2020-11-06,Guernsey,eraser,15,0.49
+1565484,2020-11-06,Marshall Islands,mouse pad,2,5.99
+1565035,2020-11-06,Sudan,laptop,10,900.0
+1565081,2020-11-06,Somalia,pencil,10,0.99
+1566439,2020-11-06,Botswana,notebook,6,4.99
+1566269,2020-11-06,China,charging cable,10,11.95
+1565453,2020-11-06,Sierra Leone,wireless mouse,9,25.99
+1566173,2020-11-06,Australia,charging cable,11,11.95
+1566660,2020-11-06,"Congo, The Democratic Republic of the",laptop,8,900.0
+1565095,2020-11-06,Antigua and Barbuda,wireless mouse,15,25.99
+1564977,2020-11-06,Nauru,charging cable,9,11.95
+1565512,2020-11-06,Togo,laptop,14,900.0
+1565941,2020-11-06,Zambia,pen,14,1.25
+1565400,2020-11-06,Niger,wireless mouse,7,25.99
+1564968,2020-11-06,Norfolk Island,AA batteries (4-pack),2,3.99
+1566167,2020-11-06,Guernsey,eraser,10,0.49
+1565980,2020-11-06,Mexico,laptop,13,900.0
+1566197,2020-11-06,Oman,laptop,9,900.0
+1564811,2020-11-06,Kuwait,pencil,8,0.99
+1565684,2020-11-06,Italy,charging cable,14,11.95
+1566051,2020-11-06,Suriname,pen,10,1.25
+1566023,2020-11-06,Georgia,wireless mouse,6,25.99
+1566054,2020-11-06,Guinea,charging cable,11,11.95
+1565784,2020-11-06,"Saint Helena, Ascension and Tristan da Cunha",laptop,14,900.0
+1566033,2020-11-06,Mongolia,mouse pad,13,5.99
+1566470,2020-11-06,Malta,laptop,15,900.0
+1566410,2020-11-06,Guam,eraser,11,0.49
+1566724,2020-11-06,Saudi Arabia,wireless mouse,2,25.99
+1565610,2020-11-06,Western Sahara,laptop,10,900.0
+1565613,2020-11-06,Netherlands,laptop,1,900.0
+1564804,2020-11-06,Isle of Man,wireless mouse,13,25.99
+1565757,2020-11-06,Suriname,charging cable,1,11.95
+1566013,2020-11-06,Bhutan,notebook,6,4.99
+1566028,2020-11-06,Mauritius,laptop,8,900.0
+1565767,2020-11-06,Azerbaijan,wireless mouse,12,25.99
+1565751,2020-11-06,Tajikistan,laptop,7,900.0
+1566373,2020-11-06,Cameroon,pencil,2,0.99
+1566459,2020-11-06,Chad,laptop,15,900.0
+1566047,2020-11-06,Australia,wireless mouse,10,25.99
+1565592,2020-11-06,South Africa,headphones,2,99.99
+1564662,2020-11-06,Philippines,mouse pad,14,5.99
+1565570,2020-11-06,Guadeloupe,wireless mouse,4,25.99
+1565639,2020-11-06,United States,mouse pad,7,5.99
+1565795,2020-11-06,Vanuatu,AA batteries (4-pack),15,3.99
+1564843,2020-11-06,Russian Federation,wireless mouse,5,25.99
+1565560,2020-11-06,Tokelau,AA batteries (4-pack),8,3.99
+1566736,2020-11-06,Belarus,mouse pad,6,5.99
+1564699,2020-11-06,Indonesia,charging cable,2,11.95
+1564862,2020-11-06,Eritrea,mouse pad,10,5.99
+1564863,2020-11-06,Syrian Arab Republic,mouse pad,4,5.99
+1565792,2020-11-06,Croatia,ruler,14,3.99
+1566764,2020-11-06,Hong Kong,mouse pad,2,5.99
+1565719,2020-11-06,Guernsey,pencil,1,0.99
+1565036,2020-11-07,Bosnia and Herzegovina,laptop,14,900.0
+1566601,2020-11-07,Cayman Islands,laptop,11,900.0
+1565765,2020-11-07,Suriname,headphones,14,99.99
+1565744,2020-11-07,Vanuatu,headphones,4,99.99
+1565025,2020-11-07,Guyana,mouse pad,8,5.99
+1565473,2020-11-07,Germany,ruler,7,3.99
+1564881,2020-11-07,Faroe Islands,ruler,13,3.99
+1564595,2020-11-07,Cameroon,headphones,13,99.99
+1565923,2020-11-07,Cocos (Keeling) Islands,headphones,7,99.99
+1565466,2020-11-07,Argentina,wireless mouse,14,25.99
+1564884,2020-11-07,Guinea,wireless mouse,7,25.99
+1566283,2020-11-07,Bouvet Island,wireless mouse,6,25.99
+1565080,2020-11-07,,pencil,14,0.99
+1564768,2020-11-07,Somalia,headphones,3,99.99
+1566733,2020-11-07,New Zealand,charging cable,7,11.95
+1566547,2020-11-07,Thailand,laptop,5,900.0
+1565632,2020-11-07,Guinea,pencil,10,0.99
+1565898,2020-11-07,Brazil,charging cable,9,11.95
+1566781,2020-11-07,Yemen,wireless mouse,14,25.99
+1566058,2020-11-07,Czechia,laptop,15,900.0
+1565625,2020-11-07,Nauru,headphones,9,99.99
+1564600,2020-11-07,Viet Nam,headphones,8,99.99
+1565889,2020-11-07,Anguilla,notebook,14,4.99
+1565449,2020-11-07,"Bonaire, Sint Eustatius and Saba",pencil,1,0.99
+1566152,2020-11-07,Benin,wireless mouse,14,25.99
+1565383,2020-11-07,Mauritius,pen,13,1.25
+1565451,2020-11-07,Timor-Leste,laptop,13,900.0
+1566648,2020-11-07,Lao People's Democratic Republic,headphones,3,99.99
+1565783,2020-11-07,Monaco,headphones,9,99.99
+1566004,2020-11-07,Lesotho,wireless mouse,14,25.99
+1565044,2020-11-07,French Polynesia,headphones,10,99.99
+1564623,2020-11-07,Belgium,mouse pad,2,5.99
+1565117,2020-11-07,"Tanzania, United Republic of",headphones,15,99.99
+1566525,2020-11-07,Germany,mouse pad,11,5.99
+1566350,2020-11-07,El Salvador,charging cable,5,11.95
+1565410,2020-11-07,Yemen,headphones,10,99.99
+1565495,2020-11-07,Réunion,laptop,2,900.0
+1566447,2020-11-07,French Polynesia,mouse pad,4,5.99
+1566223,2020-11-07,Ghana,laptop,12,900.0
+1565187,2020-11-07,Nepal,laptop,4,900.0
+1566048,2020-11-07,"Venezuela, Bolivarian Republic of",headphones,12,99.99
+1565691,2020-11-07,Lebanon,mouse pad,13,5.99
+1564561,2020-11-07,Mali,wireless mouse,13,25.99
+1566039,2020-11-07,Nepal,notebook,5,4.99
+1564705,2020-11-07,Finland,pen,5,1.25
+1565868,2020-11-07,Cuba,wireless mouse,6,25.99
+1566105,2020-11-07,Papua New Guinea,notebook,9,4.99
+1565860,2020-11-07,"Taiwan, Province of China",headphones,12,99.99
+1564663,2020-11-07,Guadeloupe,pencil,2,0.99
+1564737,2020-11-07,Kazakhstan,laptop,2,900.0
+1564571,2020-11-07,Hungary,headphones,5,99.99
+1565082,2020-11-07,San Marino,wireless mouse,15,25.99
+1566493,2020-11-07,Austria,mouse pad,13,5.99
+1565940,2020-11-07,Israel,pencil,15,0.99
+1564734,2020-11-07,Ethiopia,wireless mouse,5,25.99
+1565200,2020-11-07,Burkina Faso,laptop,15,900.0
+1565554,2020-11-07,United States Minor Outlying Islands,notebook,2,4.99
+1564582,2020-11-07,Sri Lanka,pencil,9,0.99
+1564544,2020-11-07,French Polynesia,ruler,13,3.99
+1565006,2020-11-07,Heard Island and McDonald Islands,wireless mouse,11,25.99
+1565005,2020-11-07,Switzerland,wireless mouse,4,25.99
+1566418,2020-11-07,Saudi Arabia,notebook,10,4.99
+1565002,2020-11-07,Curaçao,charging cable,8,11.95
+1565680,2020-11-07,Switzerland,headphones,11,99.99
+1566490,2020-11-07,Paraguay,wireless mouse,3,25.99
+1565741,2020-11-07,Northern Mariana Islands,wireless mouse,12,25.99
+1566116,2020-11-07,Liberia,wireless mouse,12,25.99
+1564652,2020-11-07,Poland,wireless mouse,2,25.99
+1564912,2020-11-07,"Moldova, Republic of",mouse pad,14,5.99
+1565716,2020-11-07,Martinique,notebook,4,4.99
+1566549,2020-11-07,Iraq,laptop,5,900.0
+1564712,2020-11-08,Portugal,AA batteries (4-pack),8,3.99
+1566267,2020-11-08,Panama,wireless mouse,12,25.99
+1565100,2020-11-08,Austria,AA batteries (4-pack),15,3.99
+1566597,2020-11-08,"Korea, Democratic People's Republic of",laptop,7,900.0
+1566150,2020-11-08,Greece,wireless mouse,14,25.99
+1566222,2020-11-08,Georgia,pencil,13,0.99
+1565959,2020-11-08,Maldives,ruler,13,3.99
+1564604,2020-11-08,"Tanzania, United Republic of",charging cable,1,11.95
+1566395,2020-11-08,Luxembourg,wireless mouse,8,25.99
+1565086,2020-11-08,Gabon,headphones,7,99.99
+1564774,2020-11-08,Liechtenstein,pencil,3,0.99
+1565102,2020-11-08,Hungary,charging cable,14,11.95
+1564693,2020-11-08,Belarus,notebook,13,4.99
+1565944,2020-11-08,Bosnia and Herzegovina,notebook,9,4.99
+1566253,2020-11-08,Botswana,laptop,7,900.0
+1566489,2020-11-08,Paraguay,laptop,6,900.0
+1566763,2020-11-08,Chad,headphones,11,99.99
+1565343,2020-11-08,Solomon Islands,notebook,4,4.99
+1565977,2020-11-08,Seychelles,wireless mouse,2,25.99
+1566163,2020-11-08,Mongolia,pen,9,1.25
+1565811,2020-11-08,Vanuatu,wireless mouse,4,25.99
+1566405,2020-11-08,Saint Kitts and Nevis,laptop,3,900.0
+1566743,2020-11-08,Uruguay,mouse pad,11,5.99
+1565801,2020-11-08,Gibraltar,notebook,8,4.99
+1566258,2020-11-08,Luxembourg,notebook,2,4.99
+1565162,2020-11-08,Réunion,notebook,1,4.99
+1565733,2020-11-08,Guatemala,headphones,6,99.99
+1566263,2020-11-08,"Palestine, State of",AA batteries (4-pack),5,3.99
+1566590,2020-11-08,Chile,pen,7,1.25
+1564827,2020-11-08,Gambia,pen,12,1.25
+1566380,2020-11-08,France,wireless mouse,11,25.99
+1564596,2020-11-08,"Bolivia, Plurinational State of",headphones,4,99.99
+1565917,2020-11-08,Saint Barthélemy,headphones,6,99.99
+1566230,2020-11-08,Faroe Islands,laptop,1,900.0
+1564573,2020-11-08,Wallis and Futuna,pencil,2,0.99
+1566194,2020-11-08,Timor-Leste,laptop,6,900.0
+1565207,2020-11-08,Austria,pencil,5,0.99
+1566630,2020-11-08,Kyrgyzstan,charging cable,5,11.95
+1565886,2020-11-08,Indonesia,mouse pad,11,5.99
+1565616,2020-11-08,American Samoa,notebook,4,4.99
+1566303,2020-11-08,Cambodia,laptop,11,900.0
+1565577,2020-11-08,Grenada,charging cable,5,11.95
+1566520,2020-11-08,Fiji,charging cable,7,11.95
+1565523,2020-11-08,Grenada,headphones,3,99.99
+1565879,2020-11-08,Equatorial Guinea,wireless mouse,7,25.99
+1566122,2020-11-08,Switzerland,wireless mouse,5,25.99
+1565474,2020-11-08,Sri Lanka,wireless mouse,14,25.99
+1566118,2020-11-08,Brunei Darussalam,laptop,3,900.0
+1565601,2020-11-08,Gibraltar,eraser,5,0.49
+1564915,2020-11-08,Latvia,mouse pad,3,5.99
+1564634,2020-11-08,Hong Kong,charging cable,11,11.95
+1564636,2020-11-08,South Georgia and the South Sandwich Islands,headphones,12,99.99
+1564894,2020-11-08,Solomon Islands,mouse pad,9,5.99
+1564607,2020-11-08,Central African Republic,wireless mouse,1,25.99
+1565838,2020-11-08,Oman,laptop,2,900.0
+1566114,2020-11-08,Papua New Guinea,headphones,10,99.99
+1564543,2020-11-08,Pitcairn,wireless mouse,13,25.99
+1564993,2020-11-08,Sweden,AA batteries (4-pack),5,3.99
+1564991,2020-11-08,Kyrgyzstan,charging cable,7,11.95
+1564638,2020-11-08,Djibouti,pencil,13,0.99
+1565585,2020-11-08,Kiribati,wireless mouse,5,25.99
+1566337,2020-11-08,Tunisia,notebook,4,4.99
+1565011,2020-11-08,Qatar,ruler,11,3.99
+1565258,2020-11-08,China,eraser,5,0.49
+1566424,2020-11-08,Somalia,laptop,2,900.0
+1566641,2020-11-08,,notebook,7,4.99
+1565265,2020-11-08,Myanmar,mouse pad,8,5.99
+1566357,2020-11-08,Mongolia,pencil,8,0.99
+1566486,2020-11-08,Yemen,eraser,14,0.49
+1564853,2020-11-08,Madagascar,wireless mouse,1,25.99
+1566325,2020-11-08,Hungary,laptop,9,900.0
+1565052,2020-11-08,Wallis and Futuna,pencil,8,0.99
+1565628,2020-11-08,Angola,pen,2,1.25
+1566503,2020-11-08,Mexico,laptop,14,900.0
+1565890,2020-11-08,Nepal,charging cable,15,11.95
+1564927,2020-11-08,Kiribati,AA batteries (4-pack),5,3.99
+1564675,2020-11-08,Burkina Faso,AA batteries (4-pack),11,3.99
+1566133,2020-11-08,Hungary,laptop,13,900.0
+1566483,2020-11-08,Guyana,pencil,11,0.99
+1565887,2020-11-08,China,laptop,3,900.0
+1566280,2020-11-08,Ireland,pencil,10,0.99
+1565527,2020-11-08,Peru,charging cable,11,11.95
+1565292,2020-11-09,Honduras,notebook,11,4.99
+1564978,2020-11-09,Bangladesh,headphones,10,99.99
+1565539,2020-11-09,Bulgaria,laptop,8,900.0
+1564947,2020-11-09,Morocco,wireless mouse,2,25.99
+1566239,2020-11-09,Suriname,charging cable,12,11.95
+1566664,2020-11-09,Papua New Guinea,charging cable,6,11.95
+1564674,2020-11-09,Russian Federation,ruler,12,3.99
+1565313,2020-11-09,Colombia,notebook,4,4.99
+1564935,2020-11-09,Trinidad and Tobago,charging cable,3,11.95
+1564962,2020-11-09,Saint Lucia,mouse pad,5,5.99
+1566387,2020-11-09,Ukraine,AA batteries (4-pack),6,3.99
+1565803,2020-11-09,Italy,eraser,10,0.49
+1565287,2020-11-09,Norway,charging cable,3,11.95
+1564976,2020-11-09,Svalbard and Jan Mayen,mouse pad,1,5.99
+1565706,2020-11-09,Costa Rica,notebook,12,4.99
+1566015,2020-11-09,Ecuador,pencil,6,0.99
+1566188,2020-11-09,Paraguay,laptop,14,900.0
+1566774,2020-11-09,Syrian Arab Republic,charging cable,5,11.95
+1565513,2020-11-09,Israel,pencil,2,0.99
+1566099,2020-11-09,Saudi Arabia,eraser,1,0.49
+1564568,2020-11-09,Tokelau,mouse pad,10,5.99
+1566719,2020-11-09,Sudan,headphones,9,99.99
+1565295,2020-11-09,Djibouti,ruler,11,3.99
+1566109,2020-11-09,French Polynesia,pencil,10,0.99
+1566718,2020-11-09,Guyana,laptop,12,900.0
+1565306,2020-11-09,United States,laptop,13,900.0
+1566496,2020-11-09,Mozambique,charging cable,4,11.95
+1565998,2020-11-09,Vanuatu,wireless mouse,7,25.99
+1564963,2020-11-09,Angola,laptop,14,900.0
+1565190,2020-11-09,Dominica,laptop,15,900.0
+1566785,2020-11-09,Mongolia,laptop,15,900.0
+1565586,2020-11-09,French Polynesia,charging cable,14,11.95
+1565885,2020-11-09,Peru,wireless mouse,4,25.99
+1566671,2020-11-09,Lesotho,mouse pad,12,5.99
+1564625,2020-11-09,Eswatini,pencil,5,0.99
+1565457,2020-11-09,"Bolivia, Plurinational State of",pencil,3,0.99
+1566482,2020-11-09,Western Sahara,laptop,14,900.0
+1564723,2020-11-09,Anguilla,charging cable,9,11.95
+1566707,2020-11-09,Côte d'Ivoire,headphones,5,99.99
+1566647,2020-11-09,Northern Mariana Islands,AA batteries (4-pack),5,3.99
+1564572,2020-11-09,"Bolivia, Plurinational State of",pencil,9,0.99
+1564829,2020-11-09,Iceland,mouse pad,1,5.99
+1564833,2020-11-09,Nicaragua,pencil,2,0.99
+1565221,2020-11-09,Cocos (Keeling) Islands,mouse pad,10,5.99
+1564839,2020-11-09,Palau,eraser,8,0.49
+1564690,2020-11-09,Georgia,wireless mouse,9,25.99
+1564860,2020-11-09,Estonia,notebook,9,4.99
+1566007,2020-11-09,Belarus,pen,7,1.25
+1566068,2020-11-09,Jamaica,headphones,15,99.99
+1566064,2020-11-09,Maldives,laptop,11,900.0
+1566695,2020-11-09,United Kingdom,headphones,3,99.99
+1564746,2020-11-09,Tokelau,laptop,6,900.0
+1564877,2020-11-09,Qatar,eraser,10,0.49
+1565993,2020-11-09,"Micronesia, Federated States of",wireless mouse,13,25.99
+1564574,2020-11-09,Cook Islands,ruler,10,3.99
+1565974,2020-11-09,Ukraine,laptop,9,900.0
+1566191,2020-11-09,Philippines,pen,14,1.25
+1565337,2020-11-09,Grenada,AA batteries (4-pack),9,3.99
+1565493,2020-11-09,Oman,eraser,5,0.49
+1566452,2020-11-09,Portugal,mouse pad,9,5.99
+1564879,2020-11-09,Ethiopia,mouse pad,4,5.99
+1564806,2020-11-09,Wallis and Futuna,wireless mouse,3,25.99
+1564999,2020-11-09,Poland,charging cable,6,11.95
+1566714,2020-11-09,Tonga,mouse pad,14,5.99
+1565930,2020-11-09,Svalbard and Jan Mayen,headphones,6,99.99
+1565596,2020-11-09,Latvia,mouse pad,11,5.99
+1565927,2020-11-09,Kazakhstan,laptop,15,900.0
+1565808,2020-11-09,"Tanzania, United Republic of",laptop,5,900.0
+1565247,2020-11-09,Malaysia,charging cable,15,11.95
+1565913,2020-11-09,Tokelau,charging cable,3,11.95
+1566591,2020-11-10,Lithuania,laptop,6,900.0
+1566674,2020-11-10,Central African Republic,wireless mouse,6,25.99
+1565274,2020-11-10,Germany,charging cable,1,11.95
+1565248,2020-11-10,Kiribati,mouse pad,4,5.99
+1566548,2020-11-10,Belarus,pencil,12,0.99
+1566193,2020-11-10,Anguilla,AA batteries (4-pack),12,3.99
+1565960,2020-11-10,Seychelles,headphones,9,99.99
+1565851,2020-11-10,Niger,charging cable,8,11.95
+1565290,2020-11-10,"Micronesia, Federated States of",pencil,6,0.99
+1566528,2020-11-10,Guinea,wireless mouse,6,25.99
+1565450,2020-11-10,Chile,headphones,15,99.99
+1565452,2020-11-10,"Virgin Islands, British",wireless mouse,1,25.99
+1566129,2020-11-10,India,eraser,10,0.49
+1565608,2020-11-10,Liberia,laptop,14,900.0
+1566524,2020-11-10,Sierra Leone,notebook,15,4.99
+1566081,2020-11-10,Qatar,eraser,12,0.49
+1565629,2020-11-10,Somalia,headphones,12,99.99
+1566121,2020-11-10,Barbados,mouse pad,5,5.99
+1565482,2020-11-10,Seychelles,mouse pad,11,5.99
+1565497,2020-11-10,Greenland,eraser,4,0.49
+1565996,2020-11-10,Ghana,pencil,12,0.99
+1565583,2020-11-10,Cayman Islands,eraser,7,0.49
+1566613,2020-11-10,Gabon,laptop,11,900.0
+1565864,2020-11-10,Lithuania,notebook,8,4.99
+1566621,2020-11-10,Kenya,headphones,1,99.99
+1565994,2020-11-10,Angola,wireless mouse,6,25.99
+1565949,2020-11-10,China,wireless mouse,5,25.99
+1566012,2020-11-10,Canada,pencil,13,0.99
+1565906,2020-11-10,Mauritius,charging cable,3,11.95
+1565798,2020-11-10,Serbia,headphones,14,99.99
+1565308,2020-11-10,Paraguay,laptop,10,900.0
+1565310,2020-11-10,Poland,wireless mouse,13,25.99
+1565705,2020-11-10,Qatar,headphones,8,99.99
+1565704,2020-11-10,Guinea,pencil,12,0.99
+1565694,2020-11-10,Benin,mouse pad,3,5.99
+1565335,2020-11-10,Andorra,wireless mouse,5,25.99
+1565817,2020-11-10,Palau,headphones,13,99.99
+1565340,2020-11-10,Zimbabwe,eraser,6,0.49
+1566050,2020-11-10,Panama,eraser,10,0.49
+1565663,2020-11-10,San Marino,headphones,11,99.99
+1565920,2020-11-10,Panama,laptop,12,900.0
+1565653,2020-11-10,Czechia,mouse pad,8,5.99
+1566618,2020-11-10,Liechtenstein,laptop,3,900.0
+1565402,2020-11-10,Norway,mouse pad,9,5.99
+1566062,2020-11-10,Israel,charging cable,1,11.95
+1565678,2020-11-10,Central African Republic,pencil,4,0.99
+1565780,2020-11-10,Fiji,mouse pad,2,5.99
+1566795,2020-11-10,Georgia,pencil,12,0.99
+1566694,2020-11-10,Belgium,mouse pad,11,5.99
+1564727,2020-11-10,Luxembourg,laptop,7,900.0
+1566757,2020-11-10,Ukraine,laptop,9,900.0
+1566678,2020-11-10,Tajikistan,AA batteries (4-pack),12,3.99
+1566731,2020-11-10,Somalia,charging cable,2,11.95
+1565072,2020-11-10,Tonga,mouse pad,5,5.99
+1566295,2020-11-10,French Southern Territories,mouse pad,9,5.99
+1566752,2020-11-10,United States Minor Outlying Islands,eraser,13,0.49
+1566383,2020-11-10,Bahrain,notebook,10,4.99
+1564622,2020-11-10,Iceland,headphones,6,99.99
+1564743,2020-11-10,China,mouse pad,4,5.99
+1565015,2020-11-10,Belgium,ruler,2,3.99
+1565054,2020-11-10,Czechia,pen,11,1.25
+1564890,2020-11-10,Haiti,laptop,13,900.0
+1565163,2020-11-10,Yemen,wireless mouse,7,25.99
+1564736,2020-11-10,Timor-Leste,pen,11,1.25
+1566324,2020-11-10,Isle of Man,headphones,3,99.99
+1566207,2020-11-10,South Georgia and the South Sandwich Islands,mouse pad,8,5.99
+1564834,2020-11-10,Honduras,wireless mouse,10,25.99
+1565109,2020-11-10,Estonia,ruler,2,3.99
+1566322,2020-11-10,"Moldova, Republic of",notebook,6,4.99
+1564954,2020-11-10,Viet Nam,pen,13,1.25
+1564725,2020-11-10,Saudi Arabia,wireless mouse,11,25.99
+1564940,2020-11-10,Kiribati,notebook,9,4.99
+1566310,2020-11-10,"Bolivia, Plurinational State of",mouse pad,7,5.99
+1566306,2020-11-10,Ethiopia,eraser,13,0.49
+1564763,2020-11-10,Antarctica,AA batteries (4-pack),11,3.99
+1565233,2020-11-10,Dominica,AA batteries (4-pack),9,3.99
+1566265,2020-11-10,Libya,notebook,9,4.99
+1565119,2020-11-10,Comoros,wireless mouse,14,25.99
+1564626,2020-11-11,Bouvet Island,pen,5,1.25
+1565149,2020-11-11,"Korea, Republic of",charging cable,5,11.95
+1565058,2020-11-11,Armenia,pencil,8,0.99
+1566729,2020-11-11,"Korea, Republic of",AA batteries (4-pack),2,3.99
+1565976,2020-11-11,Palau,pencil,5,0.99
+1565161,2020-11-11,Malawi,laptop,11,900.0
+1564812,2020-11-11,"Micronesia, Federated States of",headphones,1,99.99
+1566728,2020-11-11,Serbia,eraser,14,0.49
+1566336,2020-11-11,Sint Maarten (Dutch part),pencil,8,0.99
+1565682,2020-11-11,French Southern Territories,notebook,14,4.99
+1565113,2020-11-11,Suriname,wireless mouse,3,25.99
+1564902,2020-11-11,Russian Federation,headphones,9,99.99
+1565937,2020-11-11,Kyrgyzstan,pencil,13,0.99
+1564816,2020-11-11,Gambia,mouse pad,3,5.99
+1566487,2020-11-11,Saint Kitts and Nevis,laptop,13,900.0
+1565369,2020-11-11,Papua New Guinea,laptop,2,900.0
+1566649,2020-11-11,Barbados,charging cable,6,11.95
+1565394,2020-11-11,Åland Islands,charging cable,14,11.95
+1565090,2020-11-11,Western Sahara,mouse pad,13,5.99
+1566268,2020-11-11,Philippines,headphones,2,99.99
+1566016,2020-11-11,New Zealand,charging cable,9,11.95
+1565412,2020-11-11,Paraguay,AA batteries (4-pack),7,3.99
+1566485,2020-11-11,Iceland,eraser,7,0.49
+1566653,2020-11-11,Suriname,pencil,3,0.99
+1565799,2020-11-11,Cook Islands,wireless mouse,2,25.99
+1565888,2020-11-11,Curaçao,wireless mouse,5,25.99
+1564619,2020-11-11,Liberia,wireless mouse,4,25.99
+1566451,2020-11-11,Congo,pencil,11,0.99
+1565615,2020-11-11,Bosnia and Herzegovina,eraser,8,0.49
+1566432,2020-11-11,Latvia,laptop,1,900.0
+1564706,2020-11-11,Marshall Islands,mouse pad,13,5.99
+1565432,2020-11-11,Saint Martin (French part),mouse pad,2,5.99
+1566400,2020-11-11,Liberia,laptop,6,900.0
+1566368,2020-11-11,Timor-Leste,wireless mouse,10,25.99
+1565650,2020-11-11,Niue,wireless mouse,6,25.99
+1564635,2020-11-11,Togo,headphones,4,99.99
+1565777,2020-11-11,Yemen,charging cable,5,11.95
+1566046,2020-11-11,Poland,headphones,6,99.99
+1566334,2020-11-11,Sweden,pen,5,1.25
+1566592,2020-11-11,"Korea, Republic of",wireless mouse,12,25.99
+1564788,2020-11-11,Indonesia,charging cable,14,11.95
+1565862,2020-11-11,Madagascar,notebook,9,4.99
+1564980,2020-11-11,Western Sahara,ruler,12,3.99
+1566011,2020-11-11,Bahamas,wireless mouse,15,25.99
+1566034,2020-11-11,Heard Island and McDonald Islands,charging cable,5,11.95
+1565947,2020-11-11,Turkmenistan,mouse pad,15,5.99
+1565863,2020-11-11,,pencil,4,0.99
+1565314,2020-11-11,Romania,notebook,10,4.99
+1564924,2020-11-11,Niger,laptop,15,900.0
+1565282,2020-11-11,Palau,notebook,15,4.99
+1564654,2020-11-11,Jersey,pen,9,1.25
+1565715,2020-11-11,Colombia,mouse pad,2,5.99
+1564555,2020-11-11,Brazil,notebook,4,4.99
+1565213,2020-11-11,Ghana,headphones,12,99.99
+1565496,2020-11-11,Denmark,wireless mouse,13,25.99
+1565758,2020-11-11,Zambia,headphones,6,99.99
+1566673,2020-11-11,Saint Lucia,AA batteries (4-pack),9,3.99
+1566392,2020-11-11,United States Minor Outlying Islands,AA batteries (4-pack),4,3.99
+1566769,2020-11-11,Turkey,mouse pad,8,5.99
+1566321,2020-11-11,Nigeria,pen,11,1.25
+1565174,2020-11-11,Eswatini,wireless mouse,2,25.99
+1566291,2020-11-11,Uzbekistan,notebook,9,4.99
+1566534,2020-11-11,Svalbard and Jan Mayen,mouse pad,7,5.99
+1565018,2020-11-11,Indonesia,mouse pad,14,5.99
+1564670,2020-11-11,"Bolivia, Plurinational State of",headphones,9,99.99
+1565865,2020-11-11,Mongolia,wireless mouse,5,25.99
+1565963,2020-11-11,Canada,charging cable,13,11.95
+1565731,2020-11-11,Saudi Arabia,headphones,3,99.99
+1564643,2020-11-11,Saint Pierre and Miquelon,eraser,1,0.49
+1566746,2020-11-11,United States,wireless mouse,12,25.99
+1565191,2020-11-11,Ethiopia,mouse pad,14,5.99
+1565183,2020-11-11,Bouvet Island,wireless mouse,11,25.99
+1565697,2020-11-11,Finland,AA batteries (4-pack),7,3.99
+1566147,2020-11-12,Malawi,eraser,13,0.49
+1566305,2020-11-12,Vanuatu,mouse pad,15,5.99
+1566415,2020-11-12,Mauritius,charging cable,11,11.95
+1566148,2020-11-12,Zimbabwe,laptop,9,900.0
+1564939,2020-11-12,South Sudan,headphones,15,99.99
+1565823,2020-11-12,Mozambique,wireless mouse,2,25.99
+1566566,2020-11-12,Saudi Arabia,headphones,11,99.99
+1564611,2020-11-12,Tajikistan,headphones,14,99.99
+1565550,2020-11-12,Yemen,laptop,8,900.0
+1566696,2020-11-12,Pakistan,pencil,3,0.99
+1566478,2020-11-12,Czechia,notebook,1,4.99
+1566149,2020-11-12,Heard Island and McDonald Islands,notebook,5,4.99
+1566617,2020-11-12,Bangladesh,charging cable,4,11.95
+1566275,2020-11-12,Gibraltar,pencil,13,0.99
+1565814,2020-11-12,"Virgin Islands, British",pencil,7,0.99
+1566128,2020-11-12,Lesotho,headphones,10,99.99
+1566124,2020-11-12,Singapore,wireless mouse,9,25.99
+1565038,2020-11-12,Bangladesh,eraser,2,0.49
+1564645,2020-11-12,Spain,pencil,2,0.99
+1564889,2020-11-12,Ukraine,pen,6,1.25
+1566117,2020-11-12,Guadeloupe,eraser,3,0.49
+1564922,2020-11-12,Belarus,laptop,2,900.0
+1565992,2020-11-12,Wallis and Futuna,laptop,15,900.0
+1566277,2020-11-12,Timor-Leste,wireless mouse,4,25.99
+1566425,2020-11-12,Spain,laptop,14,900.0
+1565001,2020-11-12,"Palestine, State of",charging cable,14,11.95
+1566080,2020-11-12,Seychelles,ruler,7,3.99
+1565431,2020-11-12,Lebanon,pencil,12,0.99
+1566138,2020-11-12,Tokelau,eraser,12,0.49
+1566297,2020-11-12,Falkland Islands (Malvinas),ruler,12,3.99
+1566560,2020-11-12,Belgium,headphones,3,99.99
+1565987,2020-11-12,Guinea-Bissau,eraser,7,0.49
+1566264,2020-11-12,"Saint Helena, Ascension and Tristan da Cunha",headphones,6,99.99
+1566315,2020-11-12,Dominica,laptop,9,900.0
+1565382,2020-11-12,Ireland,pen,9,1.25
+1566211,2020-11-12,Guadeloupe,wireless mouse,1,25.99
+1566254,2020-11-12,"Bolivia, Plurinational State of",notebook,7,4.99
+1565934,2020-11-12,United States Minor Outlying Islands,mouse pad,8,5.99
+1564598,2020-11-12,Hungary,charging cable,2,11.95
+1566186,2020-11-12,Réunion,notebook,15,4.99
+1566220,2020-11-12,Central African Republic,charging cable,1,11.95
+1565193,2020-11-12,Western Sahara,laptop,9,900.0
+1565657,2020-11-12,Thailand,laptop,3,900.0
+1565764,2020-11-12,Lesotho,wireless mouse,7,25.99
+1565924,2020-11-12,Solomon Islands,laptop,4,900.0
+1565956,2020-11-12,"Tanzania, United Republic of",wireless mouse,3,25.99
+1565700,2020-11-12,Samoa,wireless mouse,15,25.99
+1566744,2020-11-12,Guinea-Bissau,wireless mouse,6,25.99
+1564796,2020-11-12,Lithuania,laptop,6,900.0
+1566175,2020-11-12,Indonesia,pencil,9,0.99
+1565938,2020-11-12,Sint Maarten (Dutch part),mouse pad,12,5.99
+1565164,2020-11-12,Israel,eraser,10,0.49
+1566372,2020-11-12,Qatar,laptop,8,900.0
+1564807,2020-11-12,Western Sahara,pencil,9,0.99
+1565771,2020-11-12,Kuwait,wireless mouse,15,25.99
+1566435,2020-11-12,Brunei Darussalam,laptop,5,900.0
+1565931,2020-11-12,Barbados,ruler,8,3.99
+1565302,2020-11-12,Antarctica,eraser,5,0.49
+1564549,2020-11-12,Guam,laptop,5,900.0
+1565953,2020-11-12,Oman,pencil,1,0.99
+1564814,2020-11-12,Cocos (Keeling) Islands,charging cable,8,11.95
+1564767,2020-11-12,Armenia,eraser,3,0.49
+1565785,2020-11-12,Turkey,laptop,2,900.0
+1565647,2020-11-12,Bangladesh,wireless mouse,14,25.99
+1564726,2020-11-12,Peru,eraser,15,0.49
+1564752,2020-11-12,United States Minor Outlying Islands,mouse pad,8,5.99
+1565643,2020-11-12,Georgia,eraser,8,0.49
+1564754,2020-11-12,Georgia,laptop,11,900.0
+1565228,2020-11-12,Algeria,laptop,5,900.0
+1565905,2020-11-12,Bahamas,pen,9,1.25
+1564601,2020-11-12,Niger,wireless mouse,14,25.99
+1564765,2020-11-12,Morocco,mouse pad,11,5.99
+1566199,2020-11-13,Russian Federation,mouse pad,15,5.99
+1564569,2020-11-13,"Taiwan, Province of China",pen,3,1.25
+1565679,2020-11-13,Uzbekistan,charging cable,8,11.95
+1564956,2020-11-13,Timor-Leste,pencil,3,0.99
+1564671,2020-11-13,Kenya,charging cable,1,11.95
+1565459,2020-11-13,Antigua and Barbuda,mouse pad,2,5.99
+1566089,2020-11-13,Panama,laptop,15,900.0
+1564908,2020-11-13,Argentina,mouse pad,12,5.99
+1565995,2020-11-13,Puerto Rico,AA batteries (4-pack),1,3.99
+1566464,2020-11-13,French Guiana,notebook,10,4.99
+1565249,2020-11-13,Malta,mouse pad,9,5.99
+1565020,2020-11-13,Monaco,pencil,8,0.99
+1564930,2020-11-13,San Marino,wireless mouse,15,25.99
+1565305,2020-11-13,United States,notebook,15,4.99
+1566771,2020-11-13,Australia,wireless mouse,13,25.99
+1565955,2020-11-13,Guinea,laptop,6,900.0
+1565217,2020-11-13,South Africa,eraser,7,0.49
+1564781,2020-11-13,Réunion,laptop,8,900.0
+1565503,2020-11-13,Sao Tome and Principe,laptop,6,900.0
+1565565,2020-11-13,Lebanon,AA batteries (4-pack),14,3.99
+1565226,2020-11-13,San Marino,AA batteries (4-pack),10,3.99
+1566667,2020-11-13,France,pencil,4,0.99
+1565227,2020-11-13,Namibia,wireless mouse,13,25.99
+1565763,2020-11-13,"Venezuela, Bolivarian Republic of",eraser,5,0.49
+1566713,2020-11-13,Vanuatu,charging cable,11,11.95
+1566589,2020-11-13,Czechia,laptop,4,900.0
+1564545,2020-11-13,Singapore,wireless mouse,14,25.99
+1564657,2020-11-13,Saint Kitts and Nevis,headphones,9,99.99
+1566101,2020-11-13,Sierra Leone,headphones,2,99.99
+1566580,2020-11-13,Sweden,wireless mouse,15,25.99
+1565304,2020-11-13,United Arab Emirates,charging cable,3,11.95
+1565772,2020-11-13,Cambodia,laptop,8,900.0
+1565050,2020-11-13,Egypt,laptop,11,900.0
+1566161,2020-11-13,American Samoa,pen,6,1.25
+1565136,2020-11-13,"Korea, Republic of",eraser,15,0.49
+1566141,2020-11-13,Barbados,laptop,9,900.0
+1565876,2020-11-13,Mauritania,laptop,5,900.0
+1566157,2020-11-13,Philippines,charging cable,15,11.95
+1565623,2020-11-13,Italy,laptop,10,900.0
+1565979,2020-11-13,Antigua and Barbuda,mouse pad,15,5.99
+1566426,2020-11-13,Tonga,laptop,13,900.0
+1565084,2020-11-13,Greenland,laptop,13,900.0
+1565127,2020-11-13,Svalbard and Jan Mayen,laptop,15,900.0
+1565087,2020-11-13,Tunisia,mouse pad,6,5.99
+1564836,2020-11-13,Poland,wireless mouse,3,25.99
+1564602,2020-11-13,Guinea-Bissau,charging cable,9,11.95
+1565366,2020-11-13,Belarus,laptop,10,900.0
+1565910,2020-11-13,Portugal,pencil,6,0.99
+1565397,2020-11-13,Russian Federation,eraser,11,0.49
+1566466,2020-11-13,Colombia,headphones,15,99.99
+1565986,2020-11-13,Luxembourg,charging cable,12,11.95
+1565374,2020-11-13,Curaçao,laptop,9,900.0
+1565390,2020-11-13,Montserrat,mouse pad,14,5.99
+1565107,2020-11-13,Tokelau,laptop,15,900.0
+1566779,2020-11-13,Macao,headphones,9,99.99
+1565805,2020-11-13,Nicaragua,laptop,12,900.0
+1565655,2020-11-13,Chile,ruler,13,3.99
+1566365,2020-11-13,"Micronesia, Federated States of",laptop,4,900.0
+1564882,2020-11-13,Bahrain,notebook,11,4.99
+1566572,2020-11-13,"Congo, The Democratic Republic of the",mouse pad,6,5.99
+1566740,2020-11-13,Ethiopia,pencil,11,0.99
+1565806,2020-11-13,Jersey,charging cable,11,11.95
+1565990,2020-11-13,Ukraine,mouse pad,1,5.99
+1565670,2020-11-13,Luxembourg,mouse pad,6,5.99
+1566082,2020-11-13,United Kingdom,mouse pad,11,5.99
+1566778,2020-11-13,Colombia,laptop,6,900.0
+1564735,2020-11-13,British Indian Ocean Territory,headphones,2,99.99
+1566087,2020-11-13,"Taiwan, Province of China",ruler,1,3.99
+1565152,2020-11-13,Lao People's Democratic Republic,pencil,8,0.99
+1565051,2020-11-13,Turkey,charging cable,4,11.95
+1564821,2020-11-13,Cabo Verde,wireless mouse,2,25.99
+1566072,2020-11-14,"Korea, Democratic People's Republic of",notebook,12,4.99
+1566536,2020-11-14,Cyprus,laptop,12,900.0
+1566066,2020-11-14,Kuwait,charging cable,5,11.95
+1566026,2020-11-14,Syrian Arab Republic,wireless mouse,8,25.99
+1565675,2020-11-14,Bosnia and Herzegovina,notebook,9,4.99
+1565543,2020-11-14,Sierra Leone,headphones,11,99.99
+1564897,2020-11-14,Egypt,headphones,6,99.99
+1565540,2020-11-14,Papua New Guinea,notebook,3,4.99
+1565638,2020-11-14,"Congo, The Democratic Republic of the",laptop,5,900.0
+1565597,2020-11-14,Grenada,charging cable,14,11.95
+1565750,2020-11-14,"Korea, Democratic People's Republic of",pencil,14,0.99
+1566401,2020-11-14,San Marino,pen,15,1.25
+1566619,2020-11-14,"Tanzania, United Republic of",mouse pad,6,5.99
+1566468,2020-11-14,Mexico,notebook,8,4.99
+1564932,2020-11-14,Mexico,headphones,15,99.99
+1566609,2020-11-14,Norfolk Island,pen,2,1.25
+1564707,2020-11-14,Bhutan,pen,4,1.25
+1564823,2020-11-14,Pitcairn,charging cable,1,11.95
+1565800,2020-11-14,Iraq,AA batteries (4-pack),11,3.99
+1566576,2020-11-14,Ethiopia,laptop,2,900.0
+1566758,2020-11-14,Niger,AA batteries (4-pack),6,3.99
+1565820,2020-11-14,Montserrat,pencil,15,0.99
+1565567,2020-11-14,Saint Lucia,mouse pad,10,5.99
+1566331,2020-11-14,Turks and Caicos Islands,pencil,3,0.99
+1565621,2020-11-14,Suriname,laptop,1,900.0
+1566723,2020-11-14,Falkland Islands (Malvinas),mouse pad,6,5.99
+1564772,2020-11-14,Lesotho,laptop,15,900.0
+1564835,2020-11-14,Malaysia,mouse pad,8,5.99
+1564740,2020-11-14,Nigeria,wireless mouse,15,25.99
+1564798,2020-11-14,Burundi,mouse pad,15,5.99
+1564861,2020-11-14,Israel,charging cable,11,11.95
+1564878,2020-11-14,Belgium,laptop,8,900.0
+1566301,2020-11-14,Thailand,pencil,14,0.99
+1566583,2020-11-14,San Marino,laptop,11,900.0
+1565858,2020-11-14,Mexico,charging cable,13,11.95
+1566658,2020-11-14,India,wireless mouse,4,25.99
+1565324,2020-11-14,Barbados,wireless mouse,5,25.99
+1565479,2020-11-14,Greece,notebook,5,4.99
+1565423,2020-11-14,Maldives,laptop,3,900.0
+1565326,2020-11-14,Faroe Islands,mouse pad,2,5.99
+1565159,2020-11-14,Bermuda,mouse pad,2,5.99
+1565472,2020-11-14,New Caledonia,pencil,9,0.99
+1565150,2020-11-14,"Venezuela, Bolivarian Republic of",wireless mouse,11,25.99
+1565341,2020-11-14,Antarctica,eraser,2,0.49
+1565928,2020-11-14,Zambia,mouse pad,13,5.99
+1565037,2020-11-14,Puerto Rico,wireless mouse,3,25.99
+1565874,2020-11-14,New Zealand,mouse pad,15,5.99
+1565042,2020-11-14,New Zealand,AA batteries (4-pack),2,3.99
+1566624,2020-11-14,American Samoa,mouse pad,10,5.99
+1565043,2020-11-14,Lithuania,mouse pad,12,5.99
+1564588,2020-11-14,El Salvador,mouse pad,5,5.99
+1564597,2020-11-14,Tokelau,pencil,2,0.99
+1565128,2020-11-14,Morocco,charging cable,3,11.95
+1565878,2020-11-14,"Saint Helena, Ascension and Tristan da Cunha",ruler,4,3.99
+1564603,2020-11-14,Maldives,headphones,5,99.99
+1565911,2020-11-14,Antarctica,pencil,15,0.99
+1565124,2020-11-14,Luxembourg,laptop,11,900.0
+1565907,2020-11-14,Nigeria,AA batteries (4-pack),2,3.99
+1565439,2020-11-14,New Caledonia,laptop,15,900.0
+1565096,2020-11-14,Chile,notebook,12,4.99
+1565068,2020-11-14,Congo,eraser,11,0.49
+1566697,2020-11-14,Central African Republic,wireless mouse,7,25.99
+1565071,2020-11-14,Germany,headphones,1,99.99
+1565076,2020-11-14,Grenada,wireless mouse,2,25.99
+1565455,2020-11-14,Greenland,pen,1,1.25
+1566790,2020-11-14,Egypt,mouse pad,7,5.99
+1565074,2020-11-14,Kenya,wireless mouse,3,25.99
+1564972,2020-11-14,United Kingdom,mouse pad,5,5.99
+1565518,2020-11-14,Tonga,wireless mouse,4,25.99
+1565224,2020-11-14,Grenada,wireless mouse,14,25.99
+1564546,2020-11-14,Jamaica,wireless mouse,15,25.99
+1565186,2020-11-14,Morocco,AA batteries (4-pack),4,3.99
+1566202,2020-11-14,Saint Barthélemy,laptop,13,900.0
+1564969,2020-11-14,China,laptop,3,900.0
+1566208,2020-11-14,Colombia,laptop,11,900.0
+1566187,2020-11-14,India,charging cable,10,11.95
+1565509,2020-11-14,Congo,headphones,2,99.99
+1564558,2020-11-14,Greenland,laptop,14,900.0
+1565852,2020-11-14,,notebook,4,4.99
+1565261,2020-11-14,Marshall Islands,ruler,11,3.99
+1566665,2020-11-14,France,charging cable,4,11.95
+1566112,2020-11-14,Cameroon,pencil,6,0.99
+1566682,2020-11-14,Christmas Island,charging cable,5,11.95
+1566108,2020-11-14,Niue,pencil,7,0.99
+1566506,2020-11-14,,eraser,11,0.49
+1565299,2020-11-14,Nauru,mouse pad,12,5.99
+1565296,2020-11-14,Madagascar,pencil,12,0.99
+1566514,2020-11-15,Argentina,notebook,5,4.99
+1566014,2020-11-15,Norway,notebook,4,4.99
+1564757,2020-11-15,Comoros,mouse pad,10,5.99
+1566541,2020-11-15,Canada,headphones,8,99.99
+1565232,2020-11-15,Monaco,laptop,12,900.0
+1566402,2020-11-15,Montserrat,charging cable,15,11.95
+1565373,2020-11-15,Réunion,wireless mouse,8,25.99
+1565735,2020-11-15,Falkland Islands (Malvinas),headphones,4,99.99
+1565631,2020-11-15,"Virgin Islands, U.S.",laptop,15,900.0
+1566646,2020-11-15,Gabon,headphones,3,99.99
+1566030,2020-11-15,Papua New Guinea,ruler,9,3.99
+1565398,2020-11-15,United States Minor Outlying Islands,headphones,13,99.99
+1565260,2020-11-15,Christmas Island,mouse pad,15,5.99
+1565630,2020-11-15,Panama,wireless mouse,3,25.99
+1565908,2020-11-15,Papua New Guinea,AA batteries (4-pack),3,3.99
+1565637,2020-11-15,Bahrain,charging cable,1,11.95
+1566595,2020-11-15,Norway,laptop,9,900.0
+1566434,2020-11-15,Guinea-Bissau,eraser,4,0.49
+1566234,2020-11-15,United States Minor Outlying Islands,eraser,13,0.49
+1564741,2020-11-15,Ecuador,wireless mouse,10,25.99
+1566237,2020-11-15,Portugal,wireless mouse,1,25.99
+1566491,2020-11-15,Turkey,mouse pad,4,5.99
+1566174,2020-11-15,Mongolia,eraser,15,0.49
+1566379,2020-11-15,Israel,charging cable,13,11.95
+1564808,2020-11-15,Switzerland,laptop,3,900.0
+1566217,2020-11-15,Cook Islands,wireless mouse,6,25.99
+1564764,2020-11-15,"Bolivia, Plurinational State of",notebook,13,4.99
+1566687,2020-11-15,Bhutan,charging cable,5,11.95
+1566052,2020-11-15,China,charging cable,7,11.95
+1566021,2020-11-15,Greece,mouse pad,12,5.99
+1565222,2020-11-15,Finland,mouse pad,15,5.99
+1564769,2020-11-15,Martinique,mouse pad,3,5.99
+1564584,2020-11-15,Australia,laptop,13,900.0
+1565721,2020-11-15,Bahrain,laptop,9,900.0
+1566573,2020-11-15,Gibraltar,pencil,9,0.99
+1565346,2020-11-15,Burundi,wireless mouse,6,25.99
+1565145,2020-11-15,Papua New Guinea,pencil,4,0.99
+1565681,2020-11-15,Christmas Island,headphones,11,99.99
+1564959,2020-11-15,United States Minor Outlying Islands,wireless mouse,4,25.99
+1565017,2020-11-15,Switzerland,headphones,12,99.99
+1565809,2020-11-15,Greece,laptop,13,900.0
+1564904,2020-11-15,Argentina,mouse pad,10,5.99
+1565440,2020-11-15,Cuba,charging cable,11,11.95
+1566002,2020-11-15,Puerto Rico,headphones,6,99.99
+1565491,2020-11-15,Israel,mouse pad,13,5.99
+1565848,2020-11-15,Jordan,mouse pad,10,5.99
+1566134,2020-11-15,Burundi,eraser,11,0.49
+1564621,2020-11-15,"Moldova, Republic of",notebook,2,4.99
+1565606,2020-11-15,Israel,pencil,3,0.99
+1564704,2020-11-15,Malawi,mouse pad,8,5.99
+1564949,2020-11-15,Zimbabwe,charging cable,4,11.95
+1566517,2020-11-15,Åland Islands,laptop,7,900.0
+1565563,2020-11-15,Belize,mouse pad,8,5.99
+1566131,2020-11-15,Seychelles,laptop,1,900.0
+1565818,2020-11-15,Iceland,headphones,13,99.99
+1565047,2020-11-15,Malawi,headphones,13,99.99
+1566775,2020-11-15,Djibouti,laptop,15,900.0
+1564649,2020-11-15,Faroe Islands,laptop,13,900.0
+1565070,2020-11-15,Kyrgyzstan,headphones,10,99.99
+1565454,2020-11-15,Lebanon,headphones,11,99.99
+1566077,2020-11-15,Tonga,notebook,10,4.99
+1566454,2020-11-15,Lebanon,pencil,3,0.99
+1564668,2020-11-15,Albania,wireless mouse,15,25.99
+1566313,2020-11-15,Christmas Island,wireless mouse,9,25.99
+1566419,2020-11-15,Åland Islands,laptop,11,900.0
+1564951,2020-11-15,Réunion,mouse pad,9,5.99
+1565510,2020-11-15,Papua New Guinea,laptop,9,900.0
+1564570,2020-11-16,French Polynesia,eraser,9,0.49
+1566326,2020-11-16,Papua New Guinea,laptop,6,900.0
+1564739,2020-11-16,Turkmenistan,pencil,13,0.99
+1564983,2020-11-16,Christmas Island,AA batteries (4-pack),15,3.99
+1565768,2020-11-16,Uruguay,charging cable,15,11.95
+1564997,2020-11-16,Russian Federation,mouse pad,7,5.99
+1566377,2020-11-16,Saint Barthélemy,mouse pad,15,5.99
+1566376,2020-11-16,North Macedonia,mouse pad,12,5.99
+1564803,2020-11-16,Dominica,wireless mouse,11,25.99
+1566169,2020-11-16,Kazakhstan,laptop,10,900.0
+1564577,2020-11-16,Hong Kong,AA batteries (4-pack),14,3.99
+1564791,2020-11-16,Nigeria,AA batteries (4-pack),15,3.99
+1566329,2020-11-16,Lesotho,notebook,14,4.99
+1566716,2020-11-16,Suriname,mouse pad,10,5.99
+1566622,2020-11-16,Tuvalu,headphones,2,99.99
+1564667,2020-11-16,United Kingdom,laptop,11,900.0
+1565734,2020-11-16,Nigeria,headphones,11,99.99
+1565252,2020-11-16,Marshall Islands,AA batteries (4-pack),10,3.99
+1565535,2020-11-16,Guernsey,eraser,10,0.49
+1566031,2020-11-16,Mayotte,pencil,3,0.99
+1566505,2020-11-16,Viet Nam,wireless mouse,9,25.99
+1564751,2020-11-16,Kenya,AA batteries (4-pack),8,3.99
+1565519,2020-11-16,British Indian Ocean Territory,pencil,9,0.99
+1566476,2020-11-16,Guinea-Bissau,charging cable,3,11.95
+1566307,2020-11-16,Guernsey,charging cable,13,11.95
+1565215,2020-11-16,"Congo, The Democratic Republic of the",wireless mouse,1,25.99
+1566668,2020-11-16,"Korea, Republic of",headphones,4,99.99
+1564872,2020-11-16,Saint Kitts and Nevis,laptop,14,900.0
+1566218,2020-11-16,Falkland Islands (Malvinas),AA batteries (4-pack),15,3.99
+1564565,2020-11-16,French Polynesia,eraser,12,0.49
+1565294,2020-11-16,Christmas Island,laptop,1,900.0
+1565854,2020-11-16,Malta,pen,6,1.25
+1564937,2020-11-16,Georgia,laptop,13,900.0
+1565093,2020-11-16,New Caledonia,AA batteries (4-pack),5,3.99
+1565019,2020-11-16,Côte d'Ivoire,notebook,9,4.99
+1565812,2020-11-16,Yemen,mouse pad,8,5.99
+1565810,2020-11-16,Ecuador,pencil,9,0.99
+1566428,2020-11-16,British Indian Ocean Territory,charging cable,5,11.95
+1565356,2020-11-16,Vanuatu,eraser,10,0.49
+1565363,2020-11-16,Comoros,AA batteries (4-pack),9,3.99
+1564837,2020-11-16,South Sudan,eraser,1,0.49
+1566637,2020-11-16,Heard Island and McDonald Islands,pen,5,1.25
+1565325,2020-11-16,Thailand,laptop,1,900.0
+1565063,2020-11-16,Morocco,charging cable,1,11.95
+1564961,2020-11-16,Madagascar,notebook,9,4.99
+1565981,2020-11-16,Gabon,AA batteries (4-pack),5,3.99
+1566342,2020-11-16,Belarus,wireless mouse,11,25.99
+1564854,2020-11-16,Timor-Leste,headphones,14,99.99
+1566017,2020-11-16,Jamaica,charging cable,15,11.95
+1566463,2020-11-16,Guernsey,charging cable,9,11.95
+1566088,2020-11-16,Zambia,pencil,13,0.99
+1565069,2020-11-16,Puerto Rico,laptop,8,900.0
+1564876,2020-11-16,Saudi Arabia,pencil,3,0.99
+1564610,2020-11-16,Finland,eraser,1,0.49
+1565975,2020-11-16,Guyana,mouse pad,2,5.99
+1566532,2020-11-16,Nigeria,eraser,5,0.49
+1564716,2020-11-16,Falkland Islands (Malvinas),laptop,13,900.0
+1566698,2020-11-16,Suriname,pencil,7,0.99
+1566569,2020-11-16,Tonga,pencil,10,0.99
+1565624,2020-11-16,Tunisia,laptop,11,900.0
+1565871,2020-11-16,Sierra Leone,laptop,11,900.0
+1565891,2020-11-16,Czechia,laptop,8,900.0
+1565894,2020-11-16,Malta,charging cable,13,11.95
+1565611,2020-11-16,Turkmenistan,charging cable,11,11.95
+1565929,2020-11-16,"Moldova, Republic of",wireless mouse,2,25.99
+1566243,2020-11-16,Pitcairn,AA batteries (4-pack),5,3.99
+1564710,2020-11-16,Uruguay,notebook,6,4.99
+1564815,2020-11-16,Guadeloupe,notebook,14,4.99
+1566409,2020-11-16,Côte d'Ivoire,laptop,2,900.0
+1565836,2020-11-17,Cayman Islands,mouse pad,1,5.99
+1565846,2020-11-17,Ukraine,headphones,15,99.99
+1565897,2020-11-17,Belize,laptop,9,900.0
+1565743,2020-11-17,Sudan,ruler,14,3.99
+1565745,2020-11-17,Guam,charging cable,9,11.95
+1565946,2020-11-17,Turkey,ruler,4,3.99
+1564606,2020-11-17,Malta,laptop,14,900.0
+1564686,2020-11-17,Sweden,wireless mouse,3,25.99
+1566449,2020-11-17,Pitcairn,mouse pad,8,5.99
+1566024,2020-11-17,Finland,eraser,8,0.49
+1564689,2020-11-17,Japan,pencil,2,0.99
+1564644,2020-11-17,Zimbabwe,wireless mouse,5,25.99
+1565939,2020-11-17,French Southern Territories,laptop,5,900.0
+1564640,2020-11-17,Ecuador,mouse pad,4,5.99
+1565813,2020-11-17,Malta,ruler,8,3.99
+1565926,2020-11-17,Andorra,wireless mouse,8,25.99
+1566561,2020-11-17,Kyrgyzstan,laptop,10,900.0
+1564566,2020-11-17,Dominican Republic,laptop,11,900.0
+1564729,2020-11-17,Barbados,charging cable,6,11.95
+1566567,2020-11-17,"Tanzania, United Republic of",pencil,3,0.99
+1565830,2020-11-17,Colombia,charging cable,7,11.95
+1566417,2020-11-17,Jersey,AA batteries (4-pack),13,3.99
+1566565,2020-11-17,Italy,wireless mouse,15,25.99
+1566456,2020-11-17,Seychelles,mouse pad,8,5.99
+1565790,2020-11-17,Thailand,headphones,15,99.99
+1564714,2020-11-17,Netherlands,notebook,1,4.99
+1566677,2020-11-17,Holy See (Vatican City State),notebook,8,4.99
+1565483,2020-11-17,Bulgaria,mouse pad,8,5.99
+1565353,2020-11-17,India,notebook,12,4.99
+1565270,2020-11-17,United Arab Emirates,laptop,10,900.0
+1565669,2020-11-17,Bosnia and Herzegovina,charging cable,12,11.95
+1565048,2020-11-17,Qatar,pencil,9,0.99
+1566127,2020-11-17,Peru,AA batteries (4-pack),8,3.99
+1565368,2020-11-17,Guatemala,wireless mouse,12,25.99
+1566683,2020-11-17,"Venezuela, Bolivarian Republic of",charging cable,12,11.95
+1565172,2020-11-17,Panama,laptop,6,900.0
+1564955,2020-11-17,Gabon,mouse pad,15,5.99
+1565530,2020-11-17,Sweden,laptop,2,900.0
+1566688,2020-11-17,South Georgia and the South Sandwich Islands,notebook,8,4.99
+1566710,2020-11-17,"Korea, Republic of",notebook,5,4.99
+1565179,2020-11-17,Greece,laptop,12,900.0
+1566293,2020-11-17,Madagascar,headphones,10,99.99
+1566610,2020-11-17,"Virgin Islands, British",mouse pad,6,5.99
+1566477,2020-11-17,Barbados,pencil,14,0.99
+1564852,2020-11-17,Pakistan,notebook,1,4.99
+1565490,2020-11-17,Bosnia and Herzegovina,notebook,12,4.99
+1566584,2020-11-17,Georgia,pen,2,1.25
+1564864,2020-11-17,Montenegro,mouse pad,12,5.99
+1566184,2020-11-17,Holy See (Vatican City State),mouse pad,4,5.99
+1566348,2020-11-17,Peru,ruler,14,3.99
+1566075,2020-11-17,"Korea, Democratic People's Republic of",eraser,9,0.49
+1566278,2020-11-17,Montenegro,notebook,4,4.99
+1566316,2020-11-17,Japan,notebook,1,4.99
+1566375,2020-11-17,France,laptop,10,900.0
+1564950,2020-11-17,,laptop,2,900.0
+1564936,2020-11-17,Peru,eraser,4,0.49
+1565413,2020-11-17,Falkland Islands (Malvinas),AA batteries (4-pack),4,3.99
+1564923,2020-11-17,Bahrain,laptop,13,900.0
+1565732,2020-11-17,,laptop,1,900.0
+1565727,2020-11-17,Falkland Islands (Malvinas),notebook,15,4.99
+1565424,2020-11-17,Djibouti,pencil,12,0.99
+1565575,2020-11-17,Panama,pencil,13,0.99
+1565688,2020-11-17,Oman,laptop,5,900.0
+1565435,2020-11-17,Algeria,laptop,6,900.0
+1564914,2020-11-17,Gambia,wireless mouse,12,25.99
+1566500,2020-11-17,Nauru,eraser,15,0.49
+1565066,2020-11-17,Norway,headphones,4,99.99
+1566044,2020-11-17,Bulgaria,wireless mouse,4,25.99
+1565696,2020-11-17,Iraq,notebook,9,4.99
+1566386,2020-11-17,Czechia,wireless mouse,13,25.99
+1566748,2020-11-17,Bhutan,AA batteries (4-pack),4,3.99
+1566378,2020-11-17,Ghana,headphones,8,99.99
+1565380,2020-11-17,Benin,AA batteries (4-pack),6,3.99
+1565708,2020-11-17,Mayotte,ruler,10,3.99
+1565711,2020-11-17,Algeria,eraser,6,0.49
+1565345,2020-11-17,Tokelau,AA batteries (4-pack),9,3.99
+1565515,2020-11-18,Austria,headphones,10,99.99
+1564948,2020-11-18,Singapore,charging cable,14,11.95
+1564943,2020-11-18,Saint Kitts and Nevis,wireless mouse,4,25.99
+1564590,2020-11-18,Burkina Faso,charging cable,10,11.95
+1566655,2020-11-18,Dominica,AA batteries (4-pack),4,3.99
+1565850,2020-11-18,"Korea, Republic of",headphones,15,99.99
+1565831,2020-11-18,Djibouti,laptop,8,900.0
+1565521,2020-11-18,Vanuatu,laptop,5,900.0
+1566542,2020-11-18,Israel,laptop,8,900.0
+1565501,2020-11-18,Mauritania,charging cable,12,11.95
+1564616,2020-11-18,Turkmenistan,eraser,6,0.49
+1565089,2020-11-18,Lebanon,laptop,5,900.0
+1565989,2020-11-18,Kazakhstan,laptop,9,900.0
+1565422,2020-11-18,Comoros,notebook,11,4.99
+1566137,2020-11-18,Sierra Leone,pencil,5,0.99
+1565067,2020-11-18,Turkey,pen,5,1.25
+1566784,2020-11-18,Antarctica,wireless mouse,4,25.99
+1566261,2020-11-18,Jamaica,mouse pad,14,5.99
+1565122,2020-11-18,Cambodia,pen,6,1.25
+1565445,2020-11-18,Italy,mouse pad,15,5.99
+1565853,2020-11-18,Angola,ruler,13,3.99
+1566423,2020-11-18,Kuwait,laptop,8,900.0
+1565467,2020-11-18,Serbia,mouse pad,4,5.99
+1566287,2020-11-18,"Korea, Republic of",mouse pad,5,5.99
+1565026,2020-11-18,Serbia,charging cable,4,11.95
+1566155,2020-11-18,Sao Tome and Principe,laptop,13,900.0
+1566777,2020-11-18,Sweden,charging cable,9,11.95
+1566165,2020-11-18,Montserrat,ruler,2,3.99
+1566255,2020-11-18,Philippines,laptop,5,900.0
+1566629,2020-11-18,Isle of Man,wireless mouse,2,25.99
+1566628,2020-11-18,"Palestine, State of",charging cable,3,11.95
+1565500,2020-11-18,Tuvalu,pen,3,1.25
+1565028,2020-11-18,Antarctica,AA batteries (4-pack),13,3.99
+1565556,2020-11-18,Antigua and Barbuda,laptop,14,900.0
+1565569,2020-11-18,Liechtenstein,wireless mouse,1,25.99
+1565333,2020-11-18,Latvia,mouse pad,1,5.99
+1564556,2020-11-18,San Marino,eraser,13,0.49
+1565952,2020-11-18,North Macedonia,laptop,14,900.0
+1566364,2020-11-18,Georgia,laptop,11,900.0
+1566686,2020-11-18,Honduras,ruler,15,3.99
+1565206,2020-11-18,"Iran, Islamic Republic of",wireless mouse,4,25.99
+1565658,2020-11-18,Honduras,charging cable,1,11.95
+1566019,2020-11-18,Tunisia,laptop,1,900.0
+1565210,2020-11-18,Kazakhstan,notebook,11,4.99
+1564730,2020-11-18,Sri Lanka,mouse pad,6,5.99
+1565218,2020-11-18,Cayman Islands,charging cable,15,11.95
+1564824,2020-11-18,Rwanda,mouse pad,10,5.99
+1565665,2020-11-18,Kyrgyzstan,pen,14,1.25
+1564731,2020-11-18,New Caledonia,AA batteries (4-pack),3,3.99
+1565683,2020-11-18,Cocos (Keeling) Islands,headphones,6,99.99
+1565686,2020-11-18,Kazakhstan,AA batteries (4-pack),13,3.99
+1564799,2020-11-18,Vanuatu,laptop,2,900.0
+1564550,2020-11-18,Lithuania,laptop,2,900.0
+1566575,2020-11-18,Belgium,mouse pad,12,5.99
+1566192,2020-11-18,Saint Martin (French part),laptop,9,900.0
+1564748,2020-11-18,Bahamas,headphones,13,99.99
+1565259,2020-11-18,Suriname,laptop,2,900.0
+1566544,2020-11-18,Congo,pencil,4,0.99
+1566579,2020-11-18,Norway,laptop,15,900.0
+1565966,2020-11-18,Gambia,notebook,3,4.99
+1566582,2020-11-18,Finland,mouse pad,5,5.99
+1566446,2020-11-18,Denmark,headphones,12,99.99
+1565737,2020-11-18,Guadeloupe,charging cable,5,11.95
+1566761,2020-11-18,South Georgia and the South Sandwich Islands,charging cable,15,11.95
+1564844,2020-11-18,Pitcairn,charging cable,9,11.95
+1565649,2020-11-18,Palau,mouse pad,14,5.99
+1565584,2020-11-18,Nauru,headphones,13,99.99
+1565329,2020-11-18,Papua New Guinea,mouse pad,10,5.99
+1565092,2020-11-18,Saint Kitts and Nevis,eraser,4,0.49
+1565573,2020-11-18,Angola,mouse pad,6,5.99
+1566094,2020-11-18,Mali,mouse pad,15,5.99
+1566240,2020-11-18,Hungary,wireless mouse,3,25.99
+1565581,2020-11-18,Viet Nam,pencil,3,0.99
+1564564,2020-11-18,Jordan,pen,10,1.25
+1565593,2020-11-18,Trinidad and Tobago,wireless mouse,7,25.99
+1565175,2020-11-18,Heard Island and McDonald Islands,notebook,14,4.99
+1564702,2020-11-18,Belarus,headphones,7,99.99
+1566347,2020-11-18,Cambodia,eraser,14,0.49
+1565401,2020-11-18,South Georgia and the South Sandwich Islands,pen,7,1.25
+1566730,2020-11-18,Suriname,notebook,12,4.99
+1565245,2020-11-18,Jordan,wireless mouse,3,25.99
+1565203,2020-11-18,French Guiana,laptop,7,900.0
+1564875,2020-11-18,Iraq,mouse pad,1,5.99
+1565794,2020-11-18,Norfolk Island,pencil,4,0.99
+1565618,2020-11-18,Central African Republic,charging cable,1,11.95
+1564871,2020-11-18,Jersey,charging cable,8,11.95
+1565157,2020-11-19,Serbia,pen,11,1.25
+1566684,2020-11-19,Ireland,laptop,2,900.0
+1565097,2020-11-19,Sint Maarten (Dutch part),AA batteries (4-pack),6,3.99
+1565902,2020-11-19,Réunion,wireless mouse,8,25.99
+1565965,2020-11-19,Cambodia,pencil,9,0.99
+1565255,2020-11-19,Bulgaria,mouse pad,2,5.99
+1566693,2020-11-19,Zimbabwe,charging cable,1,11.95
+1565148,2020-11-19,Croatia,wireless mouse,13,25.99
+1566657,2020-11-19,Singapore,AA batteries (4-pack),4,3.99
+1566651,2020-11-19,Chile,eraser,12,0.49
+1564589,2020-11-19,Saudi Arabia,wireless mouse,7,25.99
+1565269,2020-11-19,Saint Martin (French part),mouse pad,4,5.99
+1566249,2020-11-19,Burkina Faso,laptop,3,900.0
+1565141,2020-11-19,Côte d'Ivoire,pencil,15,0.99
+1565375,2020-11-19,Ireland,wireless mouse,10,25.99
+1566554,2020-11-19,Liechtenstein,eraser,1,0.49
+1566662,2020-11-19,"Taiwan, Province of China",mouse pad,2,5.99
+1565371,2020-11-19,"Moldova, Republic of",pen,6,1.25
+1566692,2020-11-19,Argentina,pencil,13,0.99
+1565188,2020-11-19,Bangladesh,ruler,4,3.99
+1566656,2020-11-19,Iraq,charging cable,15,11.95
+1566252,2020-11-19,Czechia,wireless mouse,7,25.99
+1566298,2020-11-19,Germany,wireless mouse,14,25.99
+1565420,2020-11-19,Faroe Islands,charging cable,11,11.95
+1564944,2020-11-19,Romania,mouse pad,11,5.99
+1564679,2020-11-19,Jordan,laptop,12,900.0
+1566323,2020-11-19,Zimbabwe,wireless mouse,4,25.99
+1565557,2020-11-19,Chad,AA batteries (4-pack),3,3.99
+1564797,2020-11-19,British Indian Ocean Territory,mouse pad,11,5.99
+1565825,2020-11-19,Lesotho,charging cable,2,11.95
+1565558,2020-11-19,Togo,pencil,4,0.99
+1565414,2020-11-19,Philippines,charging cable,9,11.95
+1566332,2020-11-19,New Zealand,laptop,9,900.0
+1566726,2020-11-19,Myanmar,pencil,15,0.99
+1564891,2020-11-19,Myanmar,laptop,14,900.0
+1564696,2020-11-19,Cameroon,mouse pad,11,5.99
+1566611,2020-11-19,Pakistan,laptop,9,900.0
+1566460,2020-11-19,Denmark,AA batteries (4-pack),15,3.99
+1564873,2020-11-19,Marshall Islands,charging cable,13,11.95
+1566732,2020-11-19,Senegal,laptop,6,900.0
+1564855,2020-11-19,Turkmenistan,mouse pad,11,5.99
+1566067,2020-11-19,Romania,laptop,7,900.0
+1564838,2020-11-19,Iraq,laptop,9,900.0
+1566461,2020-11-19,Sint Maarten (Dutch part),laptop,8,900.0
+1566594,2020-11-19,Kenya,eraser,15,0.49
+1564677,2020-11-19,"Tanzania, United Republic of",laptop,10,900.0
+1565522,2020-11-19,Guyana,pencil,11,0.99
+1566457,2020-11-19,Malaysia,charging cable,1,11.95
+1564624,2020-11-19,New Zealand,charging cable,4,11.95
+1566703,2020-11-19,Antigua and Barbuda,laptop,12,900.0
+1566389,2020-11-19,Saint Martin (French part),charging cable,15,11.95
+1566639,2020-11-19,Nigeria,wireless mouse,5,25.99
+1565060,2020-11-19,Bulgaria,headphones,4,99.99
+1564633,2020-11-19,Eritrea,laptop,10,900.0
+1565749,2020-11-19,Guernsey,pencil,10,0.99
+1565030,2020-11-19,Eswatini,mouse pad,15,5.99
+1566102,2020-11-19,Denmark,notebook,6,4.99
+1566027,2020-11-19,Liechtenstein,charging cable,3,11.95
+1564642,2020-11-19,Grenada,AA batteries (4-pack),13,3.99
+1565867,2020-11-19,"Moldova, Republic of",eraser,2,0.49
+1566119,2020-11-19,Germany,headphones,14,99.99
+1566420,2020-11-19,San Marino,mouse pad,10,5.99
+1566296,2020-11-19,Bahamas,pencil,2,0.99
+1565508,2020-11-19,Central African Republic,wireless mouse,8,25.99
+1565726,2020-11-19,Pitcairn,pencil,6,0.99
+1566308,2020-11-19,Poland,laptop,2,900.0
+1566032,2020-11-19,Togo,laptop,14,900.0
+1565787,2020-11-19,Nepal,notebook,14,4.99
+1566022,2020-11-20,Ukraine,AA batteries (4-pack),7,3.99
+1566508,2020-11-20,Oman,AA batteries (4-pack),4,3.99
+1566366,2020-11-20,Slovenia,laptop,3,900.0
+1566037,2020-11-20,Qatar,wireless mouse,2,25.99
+1566443,2020-11-20,San Marino,mouse pad,13,5.99
+1566098,2020-11-20,French Guiana,wireless mouse,15,25.99
+1566212,2020-11-20,Saint Pierre and Miquelon,notebook,6,4.99
+1566139,2020-11-20,Lebanon,AA batteries (4-pack),5,3.99
+1565991,2020-11-20,Luxembourg,wireless mouse,11,25.99
+1566132,2020-11-20,Bulgaria,charging cable,1,11.95
+1566154,2020-11-20,Sierra Leone,headphones,9,99.99
+1566110,2020-11-20,Yemen,notebook,1,4.99
+1566162,2020-11-20,Niue,laptop,10,900.0
+1566442,2020-11-20,Bangladesh,laptop,12,900.0
+1566537,2020-11-20,Dominican Republic,laptop,9,900.0
+1566003,2020-11-20,Vanuatu,pencil,7,0.99
+1566535,2020-11-20,Solomon Islands,notebook,11,4.99
+1566438,2020-11-20,Russian Federation,charging cable,10,11.95
+1566177,2020-11-20,Cameroon,eraser,6,0.49
+1566346,2020-11-20,Solomon Islands,eraser,15,0.49
+1566078,2020-11-20,"Venezuela, Bolivarian Republic of",charging cable,7,11.95
+1566413,2020-11-20,Bahrain,wireless mouse,9,25.99
+1566390,2020-11-20,Chad,wireless mouse,9,25.99
+1566625,2020-11-20,Faroe Islands,laptop,7,900.0
+1564957,2020-11-20,Chile,laptop,2,900.0
+1565707,2020-11-20,,AA batteries (4-pack),9,3.99
+1565710,2020-11-20,"Congo, The Democratic Republic of the",pencil,14,0.99
+1565331,2020-11-20,Grenada,headphones,1,99.99
+1566767,2020-11-20,Heard Island and McDonald Islands,notebook,6,4.99
+1565237,2020-11-20,Indonesia,mouse pad,10,5.99
+1564874,2020-11-20,Mongolia,laptop,12,900.0
+1565231,2020-11-20,Ethiopia,AA batteries (4-pack),14,3.99
+1566770,2020-11-20,Libya,mouse pad,11,5.99
+1565562,2020-11-20,Spain,wireless mouse,13,25.99
+1566577,2020-11-20,China,mouse pad,5,5.99
+1564880,2020-11-20,Turkmenistan,mouse pad,9,5.99
+1565350,2020-11-20,Indonesia,laptop,3,900.0
+1565034,2020-11-20,French Guiana,laptop,4,900.0
+1566691,2020-11-20,Cocos (Keeling) Islands,notebook,14,4.99
+1564887,2020-11-20,Canada,pencil,2,0.99
+1565702,2020-11-20,Macao,pen,4,1.25
+1564851,2020-11-20,"Tanzania, United Republic of",eraser,10,0.49
+1565108,2020-11-20,Kiribati,wireless mouse,9,25.99
+1564850,2020-11-20,Uzbekistan,pen,13,1.25
+1564790,2020-11-20,Myanmar,ruler,8,3.99
+1565039,2020-11-20,Saudi Arabia,AA batteries (4-pack),5,3.99
+1564830,2020-11-20,Ethiopia,eraser,2,0.49
+1565286,2020-11-20,Qatar,mouse pad,4,5.99
+1564770,2020-11-20,Namibia,wireless mouse,2,25.99
+1565316,2020-11-20,Pitcairn,pen,1,1.25
+1564971,2020-11-20,"Taiwan, Province of China",wireless mouse,14,25.99
+1565208,2020-11-20,Dominican Republic,mouse pad,1,5.99
+1565614,2020-11-20,Belgium,laptop,6,900.0
+1565609,2020-11-20,Chad,notebook,15,4.99
+1565605,2020-11-20,"Micronesia, Federated States of",mouse pad,1,5.99
+1564742,2020-11-20,Sweden,laptop,3,900.0
+1565685,2020-11-20,Brazil,wireless mouse,8,25.99
+1565687,2020-11-20,Sudan,headphones,3,99.99
+1565268,2020-11-20,Guyana,laptop,14,900.0
+1564720,2020-11-20,Czechia,notebook,5,4.99
+1565656,2020-11-20,Djibouti,pen,8,1.25
+1564647,2020-11-20,Somalia,wireless mouse,9,25.99
+1565781,2020-11-20,United Kingdom,mouse pad,5,5.99
+1566605,2020-11-20,Timor-Leste,mouse pad,3,5.99
+1565198,2020-11-20,Kyrgyzstan,headphones,11,99.99
+1565884,2020-11-20,Haiti,laptop,8,900.0
+1564896,2020-11-20,Iraq,mouse pad,12,5.99
+1565883,2020-11-20,Saint Barthélemy,laptop,1,900.0
+1566681,2020-11-20,Macao,headphones,1,99.99
+1564585,2020-11-20,Slovenia,notebook,7,4.99
+1564926,2020-11-20,Congo,charging cable,14,11.95
+1565909,2020-11-20,United States,pen,10,1.25
+1565869,2020-11-20,Nicaragua,pencil,5,0.99
+1565436,2020-11-20,Italy,headphones,11,99.99
+1565399,2020-11-20,Finland,wireless mouse,8,25.99
+1565460,2020-11-20,Sweden,notebook,9,4.99
+1564627,2020-11-20,Botswana,mouse pad,1,5.99
+1566564,2020-11-20,Malta,charging cable,5,11.95
+1565901,2020-11-20,Niue,headphones,5,99.99
+1565428,2020-11-20,Namibia,wireless mouse,1,25.99
+1565822,2020-11-20,Congo,notebook,15,4.99
+1564637,2020-11-20,Lithuania,mouse pad,9,5.99
+1564990,2020-11-20,Cayman Islands,mouse pad,6,5.99
+1566550,2020-11-20,Saint Martin (French part),ruler,10,3.99
+1566632,2020-11-20,Lao People's Democratic Republic,wireless mouse,5,25.99
+1565935,2020-11-20,Hong Kong,laptop,3,900.0
+1565425,2020-11-20,Turks and Caicos Islands,charging cable,2,11.95
+1565365,2020-11-20,New Caledonia,mouse pad,3,5.99
+1565607,2020-11-21,Niger,wireless mouse,4,25.99
+1565447,2020-11-21,Nicaragua,eraser,3,0.49
+1566608,2020-11-21,Serbia,wireless mouse,9,25.99
+1564813,2020-11-21,Turkmenistan,wireless mouse,15,25.99
+1566084,2020-11-21,El Salvador,wireless mouse,6,25.99
+1565421,2020-11-21,Nicaragua,charging cable,2,11.95
+1565395,2020-11-21,Cuba,pencil,1,0.99
+1565386,2020-11-21,Sierra Leone,mouse pad,10,5.99
+1565411,2020-11-21,Norfolk Island,notebook,7,4.99
+1566074,2020-11-21,Chad,pencil,14,0.99
+1564973,2020-11-21,Mauritius,AA batteries (4-pack),12,3.99
+1566627,2020-11-21,Albania,mouse pad,1,5.99
+1565599,2020-11-21,Congo,AA batteries (4-pack),6,3.99
+1566515,2020-11-21,French Guiana,AA batteries (4-pack),2,3.99
+1564998,2020-11-21,Norway,charging cable,5,11.95
+1565507,2020-11-21,Ireland,eraser,8,0.49
+1565524,2020-11-21,Tuvalu,headphones,10,99.99
+1566300,2020-11-21,Guinea-Bissau,wireless mouse,4,25.99
+1566107,2020-11-21,Slovenia,notebook,10,4.99
+1566106,2020-11-21,Cayman Islands,charging cable,9,11.95
+1565532,2020-11-21,Japan,eraser,4,0.49
+1565180,2020-11-21,Tajikistan,mouse pad,11,5.99
+1565470,2020-11-21,"Tanzania, United Republic of",pen,7,1.25
+1565469,2020-11-21,Antarctica,ruler,5,3.99
+1566304,2020-11-21,Maldives,laptop,14,900.0
+1566097,2020-11-21,Heard Island and McDonald Islands,eraser,3,0.49
+1566096,2020-11-21,Mali,laptop,5,900.0
+1565465,2020-11-21,Honduras,ruler,2,3.99
+1564979,2020-11-21,Monaco,laptop,14,900.0
+1565462,2020-11-21,"Virgin Islands, U.S.",charging cable,6,11.95
+1564857,2020-11-21,Ghana,wireless mouse,15,25.99
+1565589,2020-11-21,Antigua and Barbuda,AA batteries (4-pack),11,3.99
+1566130,2020-11-21,Svalbard and Jan Mayen,notebook,14,4.99
+1564866,2020-11-21,Åland Islands,AA batteries (4-pack),8,3.99
+1565181,2020-11-21,Seychelles,laptop,2,900.0
+1565970,2020-11-21,Sri Lanka,headphones,9,99.99
+1566504,2020-11-21,"Korea, Democratic People's Republic of",mouse pad,5,5.99
+1566257,2020-11-21,"Tanzania, United Republic of",notebook,7,4.99
+1565123,2020-11-21,Honduras,AA batteries (4-pack),5,3.99
+1564801,2020-11-21,Martinique,pencil,10,0.99
+1566018,2020-11-21,Marshall Islands,charging cable,1,11.95
+1564653,2020-11-21,"Virgin Islands, British",eraser,9,0.49
+1565796,2020-11-21,Western Sahara,laptop,3,900.0
+1565797,2020-11-21,Guernsey,eraser,11,0.49
+1565821,2020-11-21,Singapore,pen,8,1.25
+1566009,2020-11-21,Turkmenistan,wireless mouse,10,25.99
+1565826,2020-11-21,Tokelau,notebook,6,4.99
+1564631,2020-11-21,Rwanda,mouse pad,1,5.99
+1566780,2020-11-21,Montenegro,ruler,5,3.99
+1565849,2020-11-21,Bulgaria,wireless mouse,10,25.99
+1564615,2020-11-21,Wallis and Futuna,headphones,4,99.99
+1566250,2020-11-21,Mayotte,mouse pad,13,5.99
+1565153,2020-11-21,Russian Federation,mouse pad,14,5.99
+1564579,2020-11-21,Malaysia,charging cable,9,11.95
+1565197,2020-11-21,Syrian Arab Republic,mouse pad,5,5.99
+1564576,2020-11-21,Uzbekistan,mouse pad,5,5.99
+1565982,2020-11-21,Macao,headphones,13,99.99
+1565914,2020-11-21,Tokelau,pencil,6,0.99
+1565916,2020-11-21,Holy See (Vatican City State),wireless mouse,15,25.99
+1565932,2020-11-21,"Moldova, Republic of",ruler,10,3.99
+1566495,2020-11-21,Switzerland,wireless mouse,7,25.99
+1565761,2020-11-21,Sint Maarten (Dutch part),pencil,11,0.99
+1565230,2020-11-21,Antarctica,wireless mouse,9,25.99
+1565278,2020-11-21,Burkina Faso,mouse pad,11,5.99
+1566663,2020-11-21,Sierra Leone,wireless mouse,5,25.99
+1565725,2020-11-21,Madagascar,eraser,7,0.49
+1566488,2020-11-21,Antigua and Barbuda,laptop,1,900.0
+1566600,2020-11-21,Mauritius,mouse pad,6,5.99
+1565662,2020-11-21,France,pen,14,1.25
+1566484,2020-11-21,Benin,pencil,15,0.99
+1565699,2020-11-21,Lithuania,headphones,13,99.99
+1566260,2020-11-21,Martinique,wireless mouse,13,25.99
+1564713,2020-11-21,Georgia,ruler,7,3.99
+1564721,2020-11-21,San Marino,mouse pad,4,5.99
+1564759,2020-11-21,Heard Island and McDonald Islands,pencil,15,0.99
+1565064,2020-11-21,French Guiana,headphones,6,99.99
+1566248,2020-11-22,Ghana,ruler,6,3.99
+1566702,2020-11-22,"Bolivia, Plurinational State of",laptop,13,900.0
+1565196,2020-11-22,Armenia,notebook,3,4.99
+1565235,2020-11-22,Niue,pencil,11,0.99
+1565053,2020-11-22,Cayman Islands,laptop,15,900.0
+1564974,2020-11-22,France,headphones,11,99.99
+1565167,2020-11-22,Qatar,charging cable,9,11.95
+1566497,2020-11-22,Malawi,pencil,6,0.99
+1566511,2020-11-22,"Congo, The Democratic Republic of the",laptop,9,900.0
+1565169,2020-11-22,Haiti,laptop,12,900.0
+1566661,2020-11-22,Bosnia and Herzegovina,charging cable,12,11.95
+1566244,2020-11-22,Mongolia,mouse pad,12,5.99
+1566659,2020-11-22,Ethiopia,pencil,2,0.99
+1565137,2020-11-22,Cameroon,wireless mouse,2,25.99
+1566172,2020-11-22,Tokelau,pencil,7,0.99
+1565010,2020-11-22,Malaysia,charging cable,7,11.95
+1565339,2020-11-22,Thailand,charging cable,5,11.95
+1565229,2020-11-22,Haiti,headphones,3,99.99
+1565330,2020-11-22,Mauritius,wireless mouse,13,25.99
+1565012,2020-11-22,Spain,ruler,9,3.99
+1566709,2020-11-22,Cook Islands,eraser,6,0.49
+1565120,2020-11-22,Liechtenstein,charging cable,2,11.95
+1565352,2020-11-22,Jamaica,laptop,11,900.0
+1565106,2020-11-22,Angola,charging cable,1,11.95
+1565205,2020-11-22,Vanuatu,eraser,11,0.49
+1564996,2020-11-22,Djibouti,headphones,5,99.99
+1565266,2020-11-22,Barbados,charging cable,5,11.95
+1566715,2020-11-22,Saudi Arabia,ruler,7,3.99
+1566171,2020-11-22,Czechia,wireless mouse,12,25.99
+1565133,2020-11-22,Gabon,wireless mouse,3,25.99
+1565360,2020-11-22,Iceland,eraser,12,0.49
+1565234,2020-11-22,Puerto Rico,notebook,4,4.99
+1565031,2020-11-22,Slovenia,mouse pad,9,5.99
+1565045,2020-11-22,Senegal,wireless mouse,8,25.99
+1565968,2020-11-22,Israel,wireless mouse,11,25.99
+1565409,2020-11-22,Montenegro,notebook,8,4.99
+1566063,2020-11-22,Azerbaijan,notebook,4,4.99
+1566754,2020-11-22,Chad,mouse pad,8,5.99
+1564762,2020-11-22,Isle of Man,pencil,15,0.99
+1566391,2020-11-22,Curaçao,headphones,15,99.99
+1564753,2020-11-22,Mauritania,laptop,5,900.0
+1565689,2020-11-22,Poland,eraser,7,0.49
+1566533,2020-11-22,Nigeria,charging cable,13,11.95
+1566035,2020-11-22,Bangladesh,laptop,4,900.0
+1565713,2020-11-22,Algeria,pencil,10,0.99
+1565730,2020-11-22,Zambia,eraser,14,0.49
+1566408,2020-11-22,Zimbabwe,wireless mouse,5,25.99
+1565752,2020-11-22,Georgia,pencil,12,0.99
+1565769,2020-11-22,Chad,eraser,1,0.49
+1566773,2020-11-22,"Iran, Islamic Republic of",charging cable,13,11.95
+1566381,2020-11-22,Iraq,headphones,3,99.99
+1565773,2020-11-22,"Congo, The Democratic Republic of the",laptop,10,900.0
+1566020,2020-11-22,Slovenia,mouse pad,5,5.99
+1564659,2020-11-22,Sao Tome and Principe,charging cable,4,11.95
+1564648,2020-11-22,Iraq,eraser,15,0.49
+1566005,2020-11-22,Lebanon,charging cable,3,11.95
+1565827,2020-11-22,Samoa,pencil,9,0.99
+1565870,2020-11-22,North Macedonia,mouse pad,12,5.99
+1564594,2020-11-22,Singapore,headphones,1,99.99
+1564580,2020-11-22,Azerbaijan,mouse pad,9,5.99
+1566557,2020-11-22,Russian Federation,charging cable,4,11.95
+1565893,2020-11-22,Mali,pencil,13,0.99
+1564578,2020-11-22,Iceland,pencil,6,0.99
+1565985,2020-11-22,Macao,pencil,3,0.99
+1565919,2020-11-22,Mexico,notebook,2,4.99
+1564551,2020-11-22,Mauritania,laptop,7,900.0
+1564665,2020-11-22,Hungary,pencil,4,0.99
+1564800,2020-11-22,British Indian Ocean Territory,wireless mouse,6,25.99
+1565652,2020-11-22,Mali,laptop,12,900.0
+1565544,2020-11-22,Côte d'Ivoire,mouse pad,3,5.99
+1566469,2020-11-22,Heard Island and McDonald Islands,mouse pad,11,5.99
+1565531,2020-11-22,Heard Island and McDonald Islands,charging cable,15,11.95
+1566120,2020-11-22,Kazakhstan,headphones,2,99.99
+1566344,2020-11-22,Comoros,charging cable,11,11.95
+1565572,2020-11-22,Equatorial Guinea,charging cable,2,11.95
+1564870,2020-11-22,Ireland,notebook,2,4.99
+1564913,2020-11-22,Greece,notebook,13,4.99
+1566351,2020-11-22,Colombia,pencil,9,0.99
+1564920,2020-11-22,Western Sahara,laptop,10,900.0
+1564921,2020-11-22,Nicaragua,charging cable,14,11.95
+1566471,2020-11-22,"Virgin Islands, U.S.",mouse pad,2,5.99
+1566327,2020-11-22,Estonia,mouse pad,10,5.99
+1564859,2020-11-22,"Bolivia, Plurinational State of",laptop,14,900.0
+1564898,2020-11-22,North Macedonia,laptop,14,900.0
+1564845,2020-11-22,Czechia,laptop,12,900.0
+1566739,2020-11-22,Isle of Man,mouse pad,4,5.99
+1566370,2020-11-22,Malawi,wireless mouse,8,25.99
+1565603,2020-11-22,Argentina,wireless mouse,14,25.99
+1564840,2020-11-22,Marshall Islands,laptop,4,900.0
+1564899,2020-11-23,Mayotte,pencil,3,0.99
+1565171,2020-11-23,Latvia,pencil,15,0.99
+1566725,2020-11-23,Azerbaijan,headphones,2,99.99
+1564541,2020-11-23,New Zealand,charging cable,7,11.95
+1564557,2020-11-23,Belize,wireless mouse,15,25.99
+1564928,2020-11-23,Saudi Arabia,notebook,8,4.99
+1566320,2020-11-23,Egypt,laptop,2,900.0
+1566246,2020-11-23,New Zealand,laptop,8,900.0
+1566721,2020-11-23,"Bolivia, Plurinational State of",charging cable,15,11.95
+1565155,2020-11-23,Lebanon,notebook,10,4.99
+1564548,2020-11-23,Marshall Islands,wireless mouse,13,25.99
+1564906,2020-11-23,Cuba,laptop,13,900.0
+1564787,2020-11-23,Sweden,headphones,8,99.99
+1566727,2020-11-23,Sao Tome and Principe,wireless mouse,11,25.99
+1565046,2020-11-23,Mexico,charging cable,13,11.95
+1566382,2020-11-23,Somalia,wireless mouse,15,25.99
+1565057,2020-11-23,Greenland,ruler,15,3.99
+1566318,2020-11-23,Guinea-Bissau,pencil,10,0.99
+1566738,2020-11-23,Rwanda,laptop,1,900.0
+1565091,2020-11-23,Gambia,charging cable,3,11.95
+1566734,2020-11-23,Guernsey,eraser,13,0.49
+1564639,2020-11-23,Gabon,laptop,7,900.0
+1566762,2020-11-23,Bhutan,notebook,5,4.99
+1564715,2020-11-23,Central African Republic,wireless mouse,4,25.99
+1564700,2020-11-23,Italy,eraser,6,0.49
+1565023,2020-11-23,Bhutan,notebook,4,4.99
+1565121,2020-11-23,Tuvalu,laptop,10,900.0
+1566406,2020-11-23,Guyana,laptop,13,900.0
+1565032,2020-11-23,Côte d'Ivoire,headphones,7,99.99
+1566343,2020-11-23,,mouse pad,8,5.99
+1564717,2020-11-23,Tajikistan,laptop,3,900.0
+1565000,2020-11-23,Zambia,charging cable,5,11.95
+1566448,2020-11-23,Senegal,headphones,15,99.99
+1566198,2020-11-23,Sri Lanka,mouse pad,7,5.99
+1565246,2020-11-23,Tuvalu,notebook,5,4.99
+1565692,2020-11-23,Marshall Islands,laptop,5,900.0
+1565488,2020-11-23,Curaçao,laptop,2,900.0
+1565359,2020-11-23,Algeria,wireless mouse,12,25.99
+1566598,2020-11-23,North Macedonia,mouse pad,6,5.99
+1565264,2020-11-23,Cook Islands,mouse pad,2,5.99
+1565534,2020-11-23,Sweden,eraser,2,0.49
+1566513,2020-11-23,Egypt,pen,8,1.25
+1565351,2020-11-23,Guyana,mouse pad,4,5.99
+1566042,2020-11-23,South Africa,notebook,4,4.99
+1565636,2020-11-23,Tunisia,wireless mouse,14,25.99
+1566530,2020-11-23,Guinea,charging cable,3,11.95
+1566164,2020-11-23,Italy,AA batteries (4-pack),11,3.99
+1565627,2020-11-23,Djibouti,pencil,7,0.99
+1565336,2020-11-23,Mexico,AA batteries (4-pack),2,3.99
+1566185,2020-11-23,Morocco,laptop,15,900.0
+1565289,2020-11-23,Guatemala,pencil,14,0.99
+1566083,2020-11-23,Jersey,headphones,13,99.99
+1566612,2020-11-23,India,headphones,1,99.99
+1566179,2020-11-23,Hungary,charging cable,1,11.95
+1565406,2020-11-23,Papua New Guinea,AA batteries (4-pack),11,3.99
+1565223,2020-11-23,Brazil,pencil,15,0.99
+1565319,2020-11-23,Uganda,wireless mouse,6,25.99
+1565209,2020-11-23,Canada,headphones,7,99.99
+1565922,2020-11-23,Montenegro,headphones,2,99.99
+1566229,2020-11-23,Liechtenstein,AA batteries (4-pack),13,3.99
+1565904,2020-11-23,South Georgia and the South Sandwich Islands,headphones,9,99.99
+1565880,2020-11-23,Samoa,wireless mouse,5,25.99
+1565877,2020-11-23,Serbia,pencil,2,0.99
+1565403,2020-11-23,"Congo, The Democratic Republic of the",charging cable,15,11.95
+1566558,2020-11-23,Jersey,mouse pad,10,5.99
+1565847,2020-11-23,"Bonaire, Sint Eustatius and Saba",pencil,10,0.99
+1565695,2020-11-23,Chile,headphones,3,99.99
+1565201,2020-11-23,Czechia,charging cable,4,11.95
+1565843,2020-11-23,Uzbekistan,eraser,7,0.49
+1566040,2020-11-23,Guadeloupe,charging cable,1,11.95
+1566125,2020-11-23,Holy See (Vatican City State),ruler,2,3.99
+1565478,2020-11-23,Seychelles,headphones,15,99.99
+1565384,2020-11-23,Cook Islands,mouse pad,11,5.99
+1565740,2020-11-23,Falkland Islands (Malvinas),charging cable,15,11.95
+1565182,2020-11-24,Croatia,headphones,4,99.99
+1566720,2020-11-24,Zambia,AA batteries (4-pack),6,3.99
+1565564,2020-11-24,Luxembourg,notebook,13,4.99
+1565559,2020-11-24,Australia,AA batteries (4-pack),10,3.99
+1564885,2020-11-24,Peru,wireless mouse,10,25.99
+1566144,2020-11-24,Bahrain,pencil,10,0.99
+1565538,2020-11-24,Cambodia,mouse pad,15,5.99
+1565463,2020-11-24,Lesotho,laptop,6,900.0
+1565438,2020-11-24,Dominica,eraser,9,0.49
+1565489,2020-11-24,Palau,headphones,10,99.99
+1564934,2020-11-24,Åland Islands,wireless mouse,5,25.99
+1564909,2020-11-24,Haiti,wireless mouse,1,25.99
+1565178,2020-11-24,Gambia,headphones,8,99.99
+1566069,2020-11-24,Turkey,pencil,14,0.99
+1565587,2020-11-24,Faroe Islands,mouse pad,2,5.99
+1565945,2020-11-24,Latvia,wireless mouse,13,25.99
+1564583,2020-11-24,Burkina Faso,wireless mouse,6,25.99
+1565875,2020-11-24,Mongolia,mouse pad,12,5.99
+1565833,2020-11-24,Solomon Islands,eraser,7,0.49
+1566010,2020-11-24,Puerto Rico,eraser,4,0.49
+1565807,2020-11-24,Netherlands,notebook,2,4.99
+1566571,2020-11-24,New Zealand,charging cable,15,11.95
+1564673,2020-11-24,Portugal,mouse pad,10,5.99
+1565770,2020-11-24,Bouvet Island,wireless mouse,10,25.99
+1565712,2020-11-24,Gibraltar,charging cable,15,11.95
+1566522,2020-11-24,Philippines,wireless mouse,15,25.99
+1566045,2020-11-24,Qatar,notebook,14,4.99
+1565654,2020-11-24,Nepal,mouse pad,13,5.99
+1566059,2020-11-24,Russian Federation,pencil,2,0.99
+1564771,2020-11-24,Nauru,headphones,4,99.99
+1565645,2020-11-24,South Africa,pen,5,1.25
+1565641,2020-11-24,Peru,eraser,6,0.49
+1564825,2020-11-24,Cocos (Keeling) Islands,wireless mouse,12,25.99
+1566367,2020-11-24,Gibraltar,laptop,5,900.0
+1564832,2020-11-24,Bangladesh,laptop,6,900.0
+1566607,2020-11-24,Kazakhstan,AA batteries (4-pack),15,3.99
+1565602,2020-11-24,"Congo, The Democratic Republic of the",laptop,14,900.0
+1565690,2020-11-24,Guatemala,laptop,2,900.0
+1564960,2020-11-24,Oman,headphones,12,99.99
+1566209,2020-11-24,Saudi Arabia,AA batteries (4-pack),14,3.99
+1566717,2020-11-24,Indonesia,headphones,9,99.99
+1564995,2020-11-24,Tokelau,pencil,12,0.99
+1565204,2020-11-24,Bosnia and Herzegovina,AA batteries (4-pack),15,3.99
+1565328,2020-11-24,Réunion,wireless mouse,4,25.99
+1565144,2020-11-24,Vanuatu,notebook,13,4.99
+1566215,2020-11-24,Ghana,AA batteries (4-pack),14,3.99
+1566501,2020-11-24,Indonesia,wireless mouse,4,25.99
+1565311,2020-11-24,"Taiwan, Province of China",laptop,10,900.0
+1565212,2020-11-24,Sint Maarten (Dutch part),mouse pad,14,5.99
+1566181,2020-11-24,New Zealand,mouse pad,8,5.99
+1565293,2020-11-24,Tokelau,mouse pad,9,5.99
+1565146,2020-11-24,Bangladesh,mouse pad,7,5.99
+1565254,2020-11-24,Gabon,AA batteries (4-pack),10,3.99
+1565280,2020-11-24,Mozambique,pencil,3,0.99
+1565116,2020-11-24,Norway,laptop,11,900.0
+1565256,2020-11-24,Georgia,eraser,1,0.49
+1566273,2020-11-24,Georgia,eraser,7,0.49
+1565277,2020-11-24,Svalbard and Jan Mayen,mouse pad,9,5.99
+1565078,2020-11-24,Viet Nam,notebook,3,4.99
+1565275,2020-11-24,Suriname,pen,2,1.25
+1565105,2020-11-24,Saint Pierre and Miquelon,pencil,13,0.99
+1565101,2020-11-24,Palau,laptop,11,900.0
+1565098,2020-11-24,Poland,wireless mouse,4,25.99
+1566262,2020-11-24,Solomon Islands,wireless mouse,13,25.99
+1565354,2020-11-24,Nepal,eraser,15,0.49
+1565099,2020-11-24,Réunion,notebook,12,4.99
+1565199,2020-11-24,Belgium,notebook,8,4.99
+1564992,2020-11-24,Ghana,mouse pad,15,5.99
+1566235,2020-11-24,South Sudan,notebook,1,4.99
+1564985,2020-11-24,Philippines,wireless mouse,13,25.99
+1565173,2020-11-24,Nicaragua,mouse pad,2,5.99
+1566309,2020-11-24,Bulgaria,notebook,7,4.99
+1565184,2020-11-24,Cabo Verde,mouse pad,1,5.99
+1565405,2020-11-24,Romania,mouse pad,5,5.99
+1565185,2020-11-24,United States,mouse pad,5,5.99
+1565194,2020-11-24,Angola,mouse pad,12,5.99
+1566445,2020-11-25,Iceland,headphones,8,99.99
+1564766,2020-11-25,Finland,wireless mouse,8,25.99
+1566556,2020-11-25,Sint Maarten (Dutch part),eraser,1,0.49
+1566539,2020-11-25,Denmark,wireless mouse,6,25.99
+1565674,2020-11-25,Zimbabwe,wireless mouse,14,25.99
+1564738,2020-11-25,"Virgin Islands, British",wireless mouse,2,25.99
+1566441,2020-11-25,Zambia,pencil,1,0.99
+1565170,2020-11-25,Ireland,notebook,14,4.99
+1564758,2020-11-25,Cocos (Keeling) Islands,laptop,15,900.0
+1565660,2020-11-25,Palau,wireless mouse,2,25.99
+1566393,2020-11-25,,notebook,2,4.99
+1565988,2020-11-25,Belarus,mouse pad,11,5.99
+1566546,2020-11-25,Slovakia,mouse pad,13,5.99
+1564750,2020-11-25,Libya,notebook,12,4.99
+1564755,2020-11-25,Nigeria,mouse pad,14,5.99
+1566200,2020-11-25,Djibouti,laptop,15,900.0
+1564591,2020-11-25,Czechia,laptop,6,900.0
+1565824,2020-11-25,Slovakia,charging cable,3,11.95
+1564628,2020-11-25,Anguilla,pen,8,1.25
+1566242,2020-11-25,Colombia,pen,10,1.25
+1565793,2020-11-25,Saint Kitts and Nevis,AA batteries (4-pack),9,3.99
+1564655,2020-11-25,Poland,mouse pad,5,5.99
+1564614,2020-11-25,Saint Vincent and the Grenadines,mouse pad,4,5.99
+1566060,2020-11-25,Liberia,ruler,7,3.99
+1564613,2020-11-25,South Africa,pen,10,1.25
+1564683,2020-11-25,Equatorial Guinea,headphones,4,99.99
+1564684,2020-11-25,Gambia,notebook,1,4.99
+1565134,2020-11-25,Ecuador,mouse pad,5,5.99
+1566029,2020-11-25,Mongolia,headphones,14,99.99
+1566455,2020-11-25,Réunion,mouse pad,15,5.99
+1566430,2020-11-25,Mongolia,charging cable,3,11.95
+1566213,2020-11-25,Mozambique,mouse pad,14,5.99
+1566689,2020-11-25,"Saint Helena, Ascension and Tristan da Cunha",AA batteries (4-pack),8,3.99
+1564592,2020-11-25,Turks and Caicos Islands,wireless mouse,2,25.99
+1565166,2020-11-25,Oman,charging cable,5,11.95
+1566414,2020-11-25,Greece,eraser,7,0.49
+1565644,2020-11-25,Libya,headphones,7,99.99
+1566751,2020-11-25,Kiribati,notebook,6,4.99
+1564883,2020-11-25,Philippines,wireless mouse,4,25.99
+1565009,2020-11-25,Bahrain,laptop,10,900.0
+1565517,2020-11-25,Guinea,laptop,4,900.0
+1565506,2020-11-25,Comoros,headphones,11,99.99
+1566652,2020-11-25,Liechtenstein,wireless mouse,14,25.99
+1564988,2020-11-25,Hungary,charging cable,15,11.95
+1566633,2020-11-25,"Iran, Islamic Republic of",headphones,7,99.99
+1566634,2020-11-25,France,headphones,13,99.99
+1565471,2020-11-25,Israel,laptop,13,900.0
+1564987,2020-11-25,Pitcairn,charging cable,2,11.95
+1564919,2020-11-25,Guernsey,mouse pad,2,5.99
+1566061,2020-11-25,Montenegro,headphones,14,99.99
+1566153,2020-11-25,Gambia,wireless mouse,7,25.99
+1565456,2020-11-25,Wallis and Futuna,wireless mouse,3,25.99
+1564984,2020-11-25,Guinea,eraser,4,0.49
+1566640,2020-11-25,Isle of Man,mouse pad,6,5.99
+1565433,2020-11-25,Kuwait,notebook,10,4.99
+1564933,2020-11-25,Niger,laptop,5,900.0
+1564975,2020-11-25,Colombia,laptop,9,900.0
+1564945,2020-11-25,Philippines,notebook,15,4.99
+1565429,2020-11-25,Madagascar,wireless mouse,15,25.99
+1564946,2020-11-25,Marshall Islands,wireless mouse,2,25.99
+1566317,2020-11-25,,wireless mouse,12,25.99
+1566145,2020-11-25,Dominican Republic,laptop,5,900.0
+1564925,2020-11-25,North Macedonia,wireless mouse,9,25.99
+1565323,2020-11-25,Nauru,charging cable,9,11.95
+1566712,2020-11-25,Kiribati,wireless mouse,3,25.99
+1566085,2020-11-25,Viet Nam,eraser,12,0.49
+1566189,2020-11-25,Mongolia,wireless mouse,4,25.99
+1564826,2020-11-25,Haiti,laptop,15,900.0
+1565073,2020-11-25,"Tanzania, United Republic of",charging cable,2,11.95
+1566349,2020-11-25,Belize,wireless mouse,6,25.99
+1566705,2020-11-25,Estonia,ruler,8,3.99
+1564810,2020-11-25,Saint Lucia,wireless mouse,9,25.99
+1566065,2020-11-25,"Korea, Republic of",headphones,6,99.99
+1565633,2020-11-25,Norfolk Island,wireless mouse,3,25.99
+1566465,2020-11-25,Antigua and Barbuda,headphones,1,99.99
+1564822,2020-11-25,Guadeloupe,mouse pad,4,5.99
+1565591,2020-11-25,Czechia,wireless mouse,5,25.99
+1565588,2020-11-25,Turkey,charging cable,7,11.95
+1566178,2020-11-25,Somalia,laptop,5,900.0
+1565322,2020-11-25,Portugal,notebook,14,4.99
+1564867,2020-11-25,Egypt,wireless mouse,7,25.99
+1564966,2020-11-25,Belgium,charging cable,13,11.95
+1566615,2020-11-25,Montenegro,mouse pad,5,5.99
+1566602,2020-11-26,Dominica,pencil,2,0.99
+1566606,2020-11-26,Thailand,AA batteries (4-pack),11,3.99
+1566792,2020-11-26,New Zealand,laptop,15,900.0
+1566741,2020-11-26,Ghana,laptop,15,900.0
+1566750,2020-11-26,Russian Federation,headphones,9,99.99
+1566574,2020-11-26,Yemen,headphones,14,99.99
+1566685,2020-11-26,Singapore,laptop,10,900.0
+1566635,2020-11-26,"Venezuela, Bolivarian Republic of",AA batteries (4-pack),15,3.99
+1566704,2020-11-26,Indonesia,laptop,13,900.0
+1566462,2020-11-26,Saint Vincent and the Grenadines,pen,7,1.25
+1566735,2020-11-26,Liberia,wireless mouse,6,25.99
+1566587,2020-11-26,Kyrgyzstan,charging cable,8,11.95
+1566568,2020-11-26,Norway,charging cable,10,11.95
+1566614,2020-11-26,Cabo Verde,headphones,2,99.99
+1566498,2020-11-26,Northern Mariana Islands,charging cable,13,11.95
+1566623,2020-11-26,Somalia,pencil,9,0.99
+1564540,2020-11-26,Poland,pen,4,1.25
+1566433,2020-11-26,Bahrain,mouse pad,13,5.99
+1565104,2020-11-26,Azerbaijan,wireless mouse,6,25.99
+1565969,2020-11-26,"Palestine, State of",pen,2,1.25
+1565056,2020-11-26,Eswatini,charging cable,6,11.95
+1566043,2020-11-26,Argentina,notebook,11,4.99
+1566071,2020-11-26,Bosnia and Herzegovina,wireless mouse,8,25.99
+1564994,2020-11-26,Montserrat,charging cable,7,11.95
+1566076,2020-11-26,Liechtenstein,eraser,15,0.49
+1564953,2020-11-26,Algeria,notebook,13,4.99
+1565951,2020-11-26,Puerto Rico,headphones,9,99.99
+1564929,2020-11-26,Mongolia,AA batteries (4-pack),2,3.99
+1564888,2020-11-26,Guatemala,mouse pad,13,5.99
+1564869,2020-11-26,New Caledonia,wireless mouse,7,25.99
+1566159,2020-11-26,Belize,pencil,14,0.99
+1566183,2020-11-26,"Tanzania, United Republic of",notebook,5,4.99
+1566195,2020-11-26,Latvia,charging cable,7,11.95
+1566201,2020-11-26,Turks and Caicos Islands,wireless mouse,4,25.99
+1564848,2020-11-26,Azerbaijan,pencil,8,0.99
+1566206,2020-11-26,Denmark,eraser,3,0.49
+1566093,2020-11-26,Sierra Leone,charging cable,6,11.95
+1565110,2020-11-26,Nicaragua,mouse pad,12,5.99
+1565918,2020-11-26,Belarus,notebook,2,4.99
+1565147,2020-11-26,Gambia,pencil,15,0.99
+1565579,2020-11-26,Ecuador,laptop,8,900.0
+1565598,2020-11-26,Côte d'Ivoire,pen,13,1.25
+1565617,2020-11-26,Zimbabwe,wireless mouse,13,25.99
+1565492,2020-11-26,Ecuador,laptop,6,900.0
+1565476,2020-11-26,Portugal,mouse pad,7,5.99
+1565458,2020-11-26,Congo,pencil,6,0.99
+1565672,2020-11-26,Sudan,notebook,1,4.99
+1565377,2020-11-26,Isle of Man,mouse pad,1,5.99
+1565344,2020-11-26,Greece,laptop,15,900.0
+1565739,2020-11-26,Armenia,pencil,3,0.99
+1565309,2020-11-26,Albania,wireless mouse,4,25.99
+1565297,2020-11-26,Northern Mariana Islands,wireless mouse,1,25.99
+1565778,2020-11-26,Lebanon,charging cable,3,11.95
+1565276,2020-11-26,"Saint Helena, Ascension and Tristan da Cunha",mouse pad,13,5.99
+1565815,2020-11-26,Marshall Islands,wireless mouse,13,25.99
+1565832,2020-11-26,Austria,wireless mouse,13,25.99
+1565835,2020-11-26,Andorra,wireless mouse,14,25.99
+1565202,2020-11-26,Singapore,headphones,15,99.99
+1565881,2020-11-26,Romania,laptop,7,900.0
+1564841,2020-11-26,Somalia,wireless mouse,1,25.99
+1564783,2020-11-26,Maldives,laptop,3,900.0
+1565545,2020-11-26,Angola,wireless mouse,2,25.99
+1566232,2020-11-26,Jamaica,AA batteries (4-pack),10,3.99
+1564567,2020-11-26,Slovenia,mouse pad,7,5.99
+1566407,2020-11-26,Guam,wireless mouse,5,25.99
+1564609,2020-11-26,Mauritania,charging cable,12,11.95
+1566384,2020-11-26,Philippines,headphones,4,99.99
+1566231,2020-11-26,Philippines,pencil,7,0.99
+1564692,2020-11-26,Estonia,pencil,2,0.99
+1566288,2020-11-26,"Iran, Islamic Republic of",ruler,6,3.99
+1566282,2020-11-26,"Virgin Islands, U.S.",notebook,7,4.99
+1564761,2020-11-26,Tokelau,notebook,2,4.99
+1566341,2020-11-26,Azerbaijan,charging cable,12,11.95
+1566737,2020-11-27,Saint Kitts and Nevis,laptop,13,900.0
+1565242,2020-11-27,Mayotte,ruler,3,3.99
+1566247,2020-11-27,New Caledonia,headphones,2,99.99
+1565855,2020-11-27,Central African Republic,mouse pad,4,5.99
+1565219,2020-11-27,Liechtenstein,headphones,8,99.99
+1566559,2020-11-27,Tuvalu,mouse pad,4,5.99
+1564818,2020-11-27,Montserrat,notebook,5,4.99
+1565666,2020-11-27,Viet Nam,mouse pad,11,5.99
+1566404,2020-11-27,El Salvador,pen,5,1.25
+1564680,2020-11-27,Viet Nam,charging cable,1,11.95
+1566690,2020-11-27,Cocos (Keeling) Islands,charging cable,15,11.95
+1565125,2020-11-27,Suriname,charging cable,14,11.95
+1565477,2020-11-27,Argentina,laptop,2,900.0
+1566335,2020-11-27,Bahrain,wireless mouse,10,25.99
+1565640,2020-11-27,Georgia,mouse pad,1,5.99
+1566588,2020-11-27,Thailand,notebook,1,4.99
+1564646,2020-11-27,United States,pencil,12,0.99
+1564630,2020-11-27,Réunion,charging cable,10,11.95
+1565434,2020-11-27,Tunisia,charging cable,1,11.95
+1565819,2020-11-27,Botswana,notebook,7,4.99
+1565736,2020-11-27,Djibouti,charging cable,2,11.95
+1566586,2020-11-27,Eswatini,laptop,11,900.0
+1565372,2020-11-27,Mongolia,pencil,13,0.99
+1564617,2020-11-27,Qatar,notebook,12,4.99
+1565747,2020-11-27,Malta,laptop,4,900.0
+1566581,2020-11-27,French Polynesia,laptop,2,900.0
+1565381,2020-11-27,Belarus,laptop,15,900.0
+1565088,2020-11-27,Brunei Darussalam,pencil,8,0.99
+1564618,2020-11-27,Tokelau,mouse pad,6,5.99
+1565760,2020-11-27,Belarus,headphones,13,99.99
+1565762,2020-11-27,Eritrea,laptop,4,900.0
+1566361,2020-11-27,Morocco,laptop,3,900.0
+1565417,2020-11-27,Austria,pen,12,1.25
+1564620,2020-11-27,Panama,wireless mouse,10,25.99
+1565263,2020-11-27,American Samoa,AA batteries (4-pack),13,3.99
+1566358,2020-11-27,"Korea, Republic of",wireless mouse,2,25.99
+1566362,2020-11-27,Cook Islands,headphones,2,99.99
+1566699,2020-11-27,Malta,notebook,14,4.99
+1564820,2020-11-27,Algeria,mouse pad,1,5.99
+1566286,2020-11-27,Azerbaijan,headphones,5,99.99
+1564952,2020-11-27,Bulgaria,AA batteries (4-pack),2,3.99
+1564780,2020-11-27,"Moldova, Republic of",charging cable,14,11.95
+1564911,2020-11-27,Cook Islands,pen,7,1.25
+1564559,2020-11-27,Barbados,mouse pad,10,5.99
+1566095,2020-11-27,Turkey,pen,13,1.25
+1566104,2020-11-27,Cayman Islands,headphones,1,99.99
+1566111,2020-11-27,Viet Nam,pen,14,1.25
+1566700,2020-11-27,Gabon,charging cable,2,11.95
+1566274,2020-11-27,"Virgin Islands, U.S.",wireless mouse,6,25.99
+1564728,2020-11-27,Germany,mouse pad,12,5.99
+1565576,2020-11-27,Uruguay,eraser,13,0.49
+1566176,2020-11-27,Heard Island and McDonald Islands,eraser,15,0.49
+1565504,2020-11-27,Indonesia,laptop,13,900.0
+1564733,2020-11-27,Bouvet Island,headphones,5,99.99
+1564747,2020-11-27,Mayotte,pencil,1,0.99
+1566196,2020-11-27,Nepal,laptop,1,900.0
+1566272,2020-11-27,Réunion,mouse pad,8,5.99
+1565582,2020-11-27,Tajikistan,laptop,10,900.0
+1565357,2020-11-27,Estonia,wireless mouse,4,25.99
+1566749,2020-11-27,Romania,wireless mouse,8,25.99
+1566330,2020-11-27,Libya,notebook,3,4.99
+1564782,2020-11-27,Samoa,wireless mouse,10,25.99
+1566311,2020-11-27,Cameroon,pencil,13,0.99
+1565004,2020-11-27,Monaco,mouse pad,3,5.99
+1565061,2020-11-27,Costa Rica,wireless mouse,7,25.99
+1566768,2020-11-27,Curaçao,laptop,9,900.0
+1565612,2020-11-27,Côte d'Ivoire,notebook,3,4.99
+1566436,2020-11-27,Myanmar,wireless mouse,6,25.99
+1564964,2020-11-27,Slovakia,mouse pad,4,5.99
+1566787,2020-11-27,France,eraser,6,0.49
+1566006,2020-11-27,Madagascar,mouse pad,1,5.99
+1565016,2020-11-27,Lesotho,headphones,13,99.99
+1565487,2020-11-28,"Micronesia, Federated States of",laptop,12,900.0
+1564612,2020-11-28,Niue,wireless mouse,2,25.99
+1564608,2020-11-28,Tunisia,wireless mouse,12,25.99
+1564789,2020-11-28,Zimbabwe,AA batteries (4-pack),9,3.99
+1565498,2020-11-28,Seychelles,laptop,13,900.0
+1565396,2020-11-28,Fiji,wireless mouse,3,25.99
+1566626,2020-11-28,Madagascar,mouse pad,2,5.99
+1565444,2020-11-28,Liberia,headphones,11,99.99
+1565494,2020-11-28,Sweden,laptop,11,900.0
+1566745,2020-11-28,Zambia,mouse pad,14,5.99
+1565387,2020-11-28,Saint Lucia,pencil,2,0.99
+1565486,2020-11-28,Costa Rica,mouse pad,1,5.99
+1565220,2020-11-28,Maldives,eraser,2,0.49
+1564805,2020-11-28,Syrian Arab Republic,charging cable,14,11.95
+1564856,2020-11-28,New Zealand,notebook,7,4.99
+1564868,2020-11-28,Chile,ruler,7,3.99
+1564900,2020-11-28,Sint Maarten (Dutch part),notebook,3,4.99
+1564724,2020-11-28,Belarus,laptop,1,900.0
+1564695,2020-11-28,Rwanda,ruler,14,3.99
+1564970,2020-11-28,Cayman Islands,laptop,13,900.0
+1564982,2020-11-28,Senegal,laptop,5,900.0
+1565007,2020-11-28,Ethiopia,mouse pad,13,5.99
+1564694,2020-11-28,Finland,pencil,11,0.99
+1565027,2020-11-28,Germany,wireless mouse,8,25.99
+1566706,2020-11-28,Gabon,laptop,1,900.0
+1565065,2020-11-28,New Zealand,notebook,10,4.99
+1565347,2020-11-28,Bulgaria,pencil,12,0.99
+1565075,2020-11-28,"Moldova, Republic of",pencil,9,0.99
+1565111,2020-11-28,Ghana,wireless mouse,2,25.99
+1564676,2020-11-28,Sao Tome and Principe,eraser,14,0.49
+1565156,2020-11-28,,pen,6,1.25
+1565160,2020-11-28,Réunion,ruler,15,3.99
+1564658,2020-11-28,"Bolivia, Plurinational State of",wireless mouse,9,25.99
+1565257,2020-11-28,Gabon,mouse pad,4,5.99
+1565262,2020-11-28,Bermuda,wireless mouse,15,25.99
+1565279,2020-11-28,"Bolivia, Plurinational State of",pencil,9,0.99
+1565288,2020-11-28,Luxembourg,wireless mouse,4,25.99
+1565307,2020-11-28,Costa Rica,pencil,9,0.99
+1565312,2020-11-28,Réunion,wireless mouse,1,25.99
+1565318,2020-11-28,Australia,headphones,2,99.99
+1564687,2020-11-28,British Indian Ocean Territory,wireless mouse,1,25.99
+1565013,2020-11-28,Costa Rica,wireless mouse,8,25.99
+1565667,2020-11-28,Namibia,wireless mouse,11,25.99
+1566552,2020-11-28,South Africa,headphones,3,99.99
+1566502,2020-11-28,India,wireless mouse,4,25.99
+1565754,2020-11-28,French Polynesia,laptop,10,900.0
+1566499,2020-11-28,Albania,pencil,7,0.99
+1566092,2020-11-28,Uruguay,laptop,6,900.0
+1566492,2020-11-28,Heard Island and McDonald Islands,AA batteries (4-pack),1,3.99
+1566238,2020-11-28,China,laptop,10,900.0
+1566079,2020-11-28,Saint Vincent and the Grenadines,AA batteries (4-pack),13,3.99
+1565714,2020-11-28,Northern Mariana Islands,notebook,14,4.99
+1565828,2020-11-28,"Micronesia, Federated States of",laptop,5,900.0
+1566001,2020-11-28,Liechtenstein,headphones,15,99.99
+1566467,2020-11-28,Libya,notebook,2,4.99
+1565984,2020-11-28,"Iran, Islamic Republic of",headphones,12,99.99
+1565829,2020-11-28,Slovakia,mouse pad,7,5.99
+1565651,2020-11-28,Morocco,headphones,8,99.99
+1566363,2020-11-28,Saint Lucia,laptop,1,900.0
+1566385,2020-11-28,Norfolk Island,eraser,13,0.49
+1565578,2020-11-28,Maldives,wireless mouse,15,25.99
+1565967,2020-11-28,Cambodia,charging cable,9,11.95
+1566422,2020-11-28,Martinique,wireless mouse,3,25.99
+1566360,2020-11-28,Anguilla,AA batteries (4-pack),6,3.99
+1565921,2020-11-29,British Indian Ocean Territory,notebook,3,4.99
+1565942,2020-11-29,Mayotte,eraser,10,0.49
+1564918,2020-11-29,Poland,AA batteries (4-pack),1,3.99
+1566722,2020-11-29,Belize,pencil,2,0.99
+1565958,2020-11-29,Bangladesh,charging cable,8,11.95
+1565961,2020-11-29,"Virgin Islands, British",mouse pad,9,5.99
+1566091,2020-11-29,Malaysia,charging cable,8,11.95
+1566526,2020-11-29,Zimbabwe,pencil,9,0.99
+1566545,2020-11-29,Tokelau,wireless mouse,1,25.99
+1566527,2020-11-29,Curaçao,laptop,4,900.0
+1566070,2020-11-29,Benin,pencil,15,0.99
+1566053,2020-11-29,Algeria,laptop,2,900.0
+1566711,2020-11-29,Georgia,headphones,15,99.99
+1566521,2020-11-29,Finland,wireless mouse,4,25.99
+1565049,2020-11-29,Papua New Guinea,eraser,15,0.49
+1565999,2020-11-29,Guinea,AA batteries (4-pack),8,3.99
+1565085,2020-11-29,Dominica,headphones,6,99.99
+1566146,2020-11-29,Honduras,notebook,8,4.99
+1565536,2020-11-29,Sao Tome and Principe,mouse pad,12,5.99
+1566204,2020-11-29,United Arab Emirates,wireless mouse,13,25.99
+1564552,2020-11-29,Senegal,laptop,7,900.0
+1566431,2020-11-29,Iraq,pencil,9,0.99
+1566791,2020-11-29,Guyana,headphones,5,99.99
+1566789,2020-11-29,Estonia,laptop,9,900.0
+1566788,2020-11-29,Poland,wireless mouse,2,25.99
+1566416,2020-11-29,Christmas Island,notebook,7,4.99
+1566411,2020-11-29,Dominican Republic,headphones,4,99.99
+1566356,2020-11-29,Liberia,notebook,13,4.99
+1566353,2020-11-29,Russian Federation,headphones,6,99.99
+1564672,2020-11-29,,laptop,1,900.0
+1566340,2020-11-29,Belize,mouse pad,5,5.99
+1566339,2020-11-29,Albania,eraser,6,0.49
+1564685,2020-11-29,Kazakhstan,mouse pad,11,5.99
+1566319,2020-11-29,Spain,wireless mouse,13,25.99
+1566312,2020-11-29,Trinidad and Tobago,charging cable,5,11.95
+1566480,2020-11-29,Bulgaria,wireless mouse,3,25.99
+1564718,2020-11-29,Japan,eraser,4,0.49
+1564745,2020-11-29,,laptop,1,900.0
+1566259,2020-11-29,South Africa,mouse pad,3,5.99
+1566756,2020-11-29,Guatemala,laptop,12,900.0
+1564784,2020-11-29,Eritrea,charging cable,10,11.95
+1564785,2020-11-29,Eritrea,eraser,9,0.49
+1565131,2020-11-29,Serbia,ruler,11,3.99
+1566742,2020-11-29,Malawi,pencil,4,0.99
+1566205,2020-11-29,Lebanon,laptop,14,900.0
+1566182,2020-11-29,Slovakia,laptop,7,900.0
+1566226,2020-11-29,New Zealand,wireless mouse,15,25.99
+1565033,2020-11-29,Oman,pencil,4,0.99
+1565528,2020-11-29,Tonga,mouse pad,10,5.99
+1565272,2020-11-29,Lithuania,pen,7,1.25
+1565448,2020-11-29,Djibouti,laptop,9,900.0
+1566599,2020-11-29,Colombia,headphones,11,99.99
+1565291,2020-11-29,Isle of Man,mouse pad,11,5.99
+1565755,2020-11-29,Italy,pen,6,1.25
+1565677,2020-11-29,Japan,ruler,2,3.99
+1565837,2020-11-29,Monaco,mouse pad,11,5.99
+1565748,2020-11-29,Eritrea,laptop,9,900.0
+1565317,2020-11-29,Nepal,pencil,9,0.99
+1565703,2020-11-29,Burkina Faso,notebook,7,4.99
+1565342,2020-11-29,Zambia,charging cable,5,11.95
+1565729,2020-11-29,Malawi,eraser,11,0.49
+1565724,2020-11-29,Central African Republic,ruler,10,3.99
+1565367,2020-11-29,Ecuador,mouse pad,13,5.99
+1565407,2020-11-29,"Korea, Republic of",wireless mouse,5,25.99
+1565241,2020-11-29,Syrian Arab Republic,AA batteries (4-pack),8,3.99
+1565728,2020-11-29,Denmark,pen,3,1.25
+1565600,2020-11-29,Georgia,laptop,12,900.0
+1565856,2020-11-29,Liberia,wireless mouse,9,25.99
+1565915,2020-11-29,Gabon,wireless mouse,13,25.99
+1565895,2020-11-29,Honduras,pen,8,1.25
+1565568,2020-11-29,"Bonaire, Sint Eustatius and Saba",headphones,8,99.99
+1565635,2020-11-29,South Sudan,notebook,8,4.99
+1565214,2020-11-29,,laptop,11,900.0
+1565195,2020-11-29,Equatorial Guinea,laptop,9,900.0
+1565866,2020-11-29,Sudan,notebook,15,4.99
+1565620,2020-11-29,Singapore,wireless mouse,11,25.99
+1565903,2020-11-29,"Saint Helena, Ascension and Tristan da Cunha",charging cable,6,11.95
+1566394,2020-11-30,Liberia,eraser,9,0.49
+1564698,2020-11-30,Réunion,laptop,6,900.0
+1564701,2020-11-30,Mayotte,pen,14,1.25
+1566279,2020-11-30,Mauritius,AA batteries (4-pack),8,3.99
+1565385,2020-11-30,"Iran, Islamic Republic of",pencil,4,0.99
+1566266,2020-11-30,Cuba,laptop,9,900.0
+1566593,2020-11-30,Croatia,mouse pad,15,5.99
+1565718,2020-11-30,Puerto Rico,pen,3,1.25
+1566251,2020-11-30,Serbia,AA batteries (4-pack),5,3.99
+1565551,2020-11-30,Cameroon,AA batteries (4-pack),6,3.99
+1566228,2020-11-30,Bermuda,wireless mouse,10,25.99
+1566271,2020-11-30,Dominican Republic,charging cable,11,11.95
+1566765,2020-11-30,"Bolivia, Plurinational State of",mouse pad,6,5.99
+1566596,2020-11-30,Saint Barthélemy,charging cable,6,11.95
+1565485,2020-11-30,Niger,wireless mouse,9,25.99
+1566783,2020-11-30,Cayman Islands,laptop,15,900.0
+1565481,2020-11-30,"Virgin Islands, British",pen,1,1.25
+1566369,2020-11-30,Seychelles,wireless mouse,5,25.99
+1565648,2020-11-30,Puerto Rico,wireless mouse,1,25.99
+1564605,2020-11-30,Poland,mouse pad,11,5.99
+1565475,2020-11-30,Mayotte,eraser,2,0.49
+1565661,2020-11-30,Croatia,headphones,4,99.99
+1564669,2020-11-30,Guadeloupe,laptop,11,900.0
+1565364,2020-11-30,Montenegro,charging cable,1,11.95
+1565442,2020-11-30,New Zealand,headphones,6,99.99
+1565634,2020-11-30,Barbados,headphones,7,99.99
+1565427,2020-11-30,Congo,AA batteries (4-pack),5,3.99
+1566473,2020-11-30,"Korea, Republic of",wireless mouse,14,25.99
+1566474,2020-11-30,India,pencil,6,0.99
+1565419,2020-11-30,Mayotte,pencil,5,0.99
+1565604,2020-11-30,Kiribati,charging cable,10,11.95
+1565443,2020-11-30,Honduras,laptop,13,900.0
+1565143,2020-11-30,Sint Maarten (Dutch part),laptop,11,900.0
+1566654,2020-11-30,Central African Republic,eraser,4,0.49
+1566669,2020-11-30,Angola,mouse pad,2,5.99
+1565791,2020-11-30,Malawi,laptop,6,900.0
+1566073,2020-11-30,Tonga,wireless mouse,13,25.99
+1566529,2020-11-30,Jamaica,laptop,2,900.0
+1566672,2020-11-30,Papua New Guinea,headphones,13,99.99
+1566041,2020-11-30,Cocos (Keeling) Islands,wireless mouse,5,25.99
+1565802,2020-11-30,Samoa,notebook,6,4.99
+1566000,2020-11-30,"Palestine, State of",laptop,10,900.0
+1565782,2020-11-30,France,eraser,10,0.49
+1565548,2020-11-30,Brazil,mouse pad,1,5.99
+1565983,2020-11-30,Viet Nam,laptop,13,900.0
+1565972,2020-11-30,Sri Lanka,charging cable,11,11.95
+1565079,2020-11-30,Dominica,wireless mouse,1,25.99
+1565962,2020-11-30,Bahamas,wireless mouse,8,25.99
+1565168,2020-11-30,Mongolia,mouse pad,12,5.99
+1565103,2020-11-30,Switzerland,AA batteries (4-pack),9,3.99
+1565936,2020-11-30,Isle of Man,pencil,7,0.99
+1565151,2020-11-30,Martinique,mouse pad,11,5.99
+1565841,2020-11-30,Sri Lanka,charging cable,15,11.95
+1565285,2020-11-30,Papua New Guinea,pencil,10,0.99
+1565776,2020-11-30,Saudi Arabia,ruler,7,3.99
+1565753,2020-11-30,Malta,laptop,12,900.0
+1566747,2020-11-30,Saint Pierre and Miquelon,laptop,12,900.0
+1564794,2020-11-30,Marshall Islands,laptop,5,900.0
+1566225,2020-11-30,Singapore,ruler,1,3.99
+1564795,2020-11-30,Luxembourg,eraser,12,0.49
+1565132,2020-11-30,Benin,ruler,7,3.99
+1564817,2020-11-30,New Zealand,wireless mouse,10,25.99
+1566219,2020-11-30,Sri Lanka,eraser,13,0.49
+1566214,2020-11-30,Denmark,headphones,11,99.99
+1565321,2020-11-30,Liechtenstein,wireless mouse,5,25.99
+1564846,2020-11-30,Sint Maarten (Dutch part),headphones,14,99.99
+1564847,2020-11-30,Qatar,pen,14,1.25
+1565742,2020-11-30,Saudi Arabia,laptop,4,900.0
+1564865,2020-11-30,Congo,wireless mouse,11,25.99
+1566512,2020-11-30,United Kingdom,laptop,6,900.0
+1566113,2020-11-30,"Palestine, State of",AA batteries (4-pack),11,3.99
+1564893,2020-11-30,Nigeria,laptop,15,900.0
+1564895,2020-11-30,Niger,mouse pad,1,5.99
+1566516,2020-11-30,Turks and Caicos Islands,mouse pad,10,5.99
+1564901,2020-11-30,Indonesia,AA batteries (4-pack),9,3.99
+1566227,2020-11-30,United States,charging cable,8,11.95
+1566585,2020-11-30,Lebanon,charging cable,12,11.95
