@@ -116,10 +116,31 @@ def create_global_figure(df):
     fig.update_layout(margin=dict(l=0, r=0, t=70, b=20), title={"font": {"size": 20}, "x":0.5},)
     fig.write_image('./resources/world_sales.png', engine='kaleido')
 
+# Question 6: Percentage of orders by product (pie chart)
+def pie_plot_products_orders_percentage():
+    df = data.groupby(['Product']).sum()['QuantityOrdered']
+    quantity = []
+    labels = []
+    for items in df.iteritems():
+        labels.append(items[0])
+        quantity.append(items[1])
+    fig, ax = plt.subplots()
+    
+    size = 0.3
+    cmap = plt.get_cmap("tab20c")
+    outer_colors = cmap(np.arange(len(labels)))
+
+    ax.pie(quantity, labels=labels, colors=outer_colors, autopct='%1.1f%%', wedgeprops=dict(width=size, edgecolor='w'))
+
+    ax.set(aspect="equal", title='Percentage of orders by product')
+    plt.savefig('./resources/pie_products_orders.png', dpi=500)
+    plt.show()
+
 # uncomment for testing
 # bar_plot_monthly_sales()
-line_plot_monthly_sales()
+# line_plot_monthly_sales()
 # bar_plot_country_sales()
 # bar_plot_product_sales()
 # bar_plot_orders_vs_price()
 # map_plot_world_sales()
+pie_plot_products_orders_percentage()
