@@ -1,13 +1,13 @@
 # python libraries
 from fpdf import FPDF
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 import os
 import analysis
 
 WIDTH = 210
 HEIGHT = 297
 
-TEST_DATE = "2020-12-25"
+TEST_DATE = date.today()
 
 def create_title(day, pdf):
     pdf.set_font('Arial', '', 24)  
@@ -45,8 +45,5 @@ def create_sales_analytics_report(day=TEST_DATE, filename="report.pdf"):
     pdf.output(filename, 'F')
 
 if __name__ == '__main__':
-    # yesterday = (datetime.today() - timedelta(days=1)).strftime("%m/%d/%y").replace("/0","/").lstrip("0")
-    yesterday = "2021-02-07" # Uncomment line for testing
-
-    create_sales_analytics_report(yesterday)
+    create_sales_analytics_report(TEST_DATE)
     print('Sales Analysis Report created successfully')
