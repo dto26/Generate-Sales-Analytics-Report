@@ -27,11 +27,11 @@ def create_sales_analytics_report(day=TEST_DATE, filename="report.pdf"):
     create_title(day, pdf)
 
     # Generate plots
-    # plot_world_sales()
-    # plot_monthly_sales()
-    # plot_country_sales()
-    # plot_product_sales()
-    # plot_orders_vs_price()
+    # map_plot_world_sales()
+    # bar_plot_monthly_sales()
+    # bar_plot_country_sales()
+    # bar_plot_product_sales()
+    # bar_plot_orders_vs_price()
 
     # Add figures to pdf
     pdf.image('./resources/world_sales.png', 12, 95, WIDTH-20)

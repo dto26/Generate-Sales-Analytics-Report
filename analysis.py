@@ -3,8 +3,10 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import matplotlib.pyplot as plt
+from scipy.interpolate import make_interp_spline, BSpline
 from datetime import datetime, timedelta
 import calendar
+
 # local files
 # from helper import Mode, load_relevant_data
 
@@ -13,7 +15,7 @@ data = pd.read_csv('./data/clean_data/cleaned_data.csv')
 
 # Question 1: What was the best month for sales? How much was earned that month?
 ''' bar chart of total monthly sales '''
-def plot_monthly_sales():
+def bar_plot_monthly_sales():
     months = range(1, 13)
     plt.bar(months, data.groupby(['Month']).sum()['Sales'])
     plt.xticks(months)
@@ -22,11 +24,30 @@ def plot_monthly_sales():
     plt.savefig('./resources/monthly_sales_plot.png', dpi=500)
     plt.show()
 
+# line chart of total sales $ per month
+def line_plot_monthly_sales():
+    months = np.array(range(1, 13))
+    # months_smooth = np.linspace(months.min(), months.max(), 200)
+    df = data.groupby(['Month']).sum()['Sales']
+    # y = df.to_numpy()
+    # spl = make_interp_spline(months, y, k=5)
+    # y_smooth = spl(months_smooth)
+    # plt.plot(months_smooth, y_smooth)
+
+    markers_on = np.round_(df.to_numpy(), decimals=2)
+    # print(markers_on)
+    plt.plot(months, df.to_numpy(), '-o')
+    plt.xticks(months)
+    plt.ylabel('Sales USD($)')
+    plt.xlabel('Month Number')
+    plt.savefig('./resources/monthly_sales_line_plot.png', dpi=500)
+    plt.show()
+
 # Question 2: Which countries were sold in the most?
 ''' bar chart with total sales per country
     note: does not look good with the mock data (249 countries)
 '''
-def plot_country_sales():
+def bar_plot_country_sales():
     keys = [country for country, df in data.groupby(['Country'])]
     plt.bar(keys, data.groupby(['Country']).sum()['Sales'])
     plt.xticks(keys, rotation='vertical', size=8)
@@ -36,7 +57,7 @@ def plot_country_sales():
     plt.show()
 
 # Question 3: Which products sold the most?
-def plot_product_sales():
+def bar_plot_product_sales():
     prod_group = data.groupby('Product')
     quantity_ordered = prod_group.sum()['QuantityOrdered']
     keys = [pair for pair, df in prod_group]
@@ -46,7 +67,7 @@ def plot_product_sales():
     plt.show()
 
 # Question 4: What is the correlation between sale price and quantity ordered?
-def plot_orders_vs_price():
+def bar_plot_orders_vs_price():
     prod_group = data.groupby('Product')
     prices = data.groupby('Product').mean()['Price']
     quantity_ordered = prod_group.sum()['QuantityOrdered']
@@ -67,7 +88,7 @@ def plot_orders_vs_price():
     fig.show()
 
 # Question 5: Orders per country on world map?
-def plot_world_sales():
+def map_plot_world_sales():
     filename = 'world_sales.png'
     dates = list(data.columns)
     # Get quantity ordered by country
@@ -96,8 +117,9 @@ def create_global_figure(df):
     fig.write_image('./resources/world_sales.png', engine='kaleido')
 
 # uncomment for testing
-# plot_monthly_sales()
-# plot_country_sales()
-# plot_product_sales()
-# plot_orders_vs_price()
-# plot_world_sales()
+# bar_plot_monthly_sales()
+line_plot_monthly_sales()
+# bar_plot_country_sales()
+# bar_plot_product_sales()
+# bar_plot_orders_vs_price()
+# map_plot_world_sales()
