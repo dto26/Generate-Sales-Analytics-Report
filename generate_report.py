@@ -34,7 +34,7 @@ def create_sales_analytics_report(day=TEST_DATE, filename="report.pdf"):
     # plot_orders_vs_price()
 
     # Add figures to pdf
-    # pdf.image('./resources/world_sales.png', 5, 20, WIDTH-20)
+    pdf.image('./resources/world_sales.png', 12, 95, WIDTH-20)
     pdf.image('./resources/monthly_sales_plot.png', 5, 200, WIDTH/2-10)
     pdf.image('./resources/orders_vs_price.png', WIDTH/2, 200, WIDTH/2-10)
 
