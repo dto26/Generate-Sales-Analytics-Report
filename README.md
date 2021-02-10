@@ -1,5 +1,7 @@
 # Generate-Sales-Analytics-Report
 
+Work in progress at the moment. Will be adapted later into a full Dash application.
+
 <p align="center">
     <img src="resources/pdf-report.png" alt="Sales Analytics Report" width="300"/>
 </p>
