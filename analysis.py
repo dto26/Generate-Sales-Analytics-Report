@@ -2,6 +2,8 @@
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import plotly.graph_objs as go
+from plotly.offline import iplot
 import matplotlib.pyplot as plt
 from scipy.interpolate import make_interp_spline, BSpline
 from datetime import datetime, timedelta
@@ -89,32 +91,26 @@ def bar_plot_orders_vs_price():
 
 # Question 5: Orders per country on world map?
 def map_plot_world_sales():
-    filename = 'world_sales.png'
-    dates = list(data.columns)
-    # Get quantity ordered by country
-    df = data.groupby('Country')[dates].agg('sum')
-    df = df.drop(columns=['OrderID', 'Price', 'Sales', 'Month', 'Day', 'Year'])
-    # print(df)
-    create_global_figure(df)
+    df = data.groupby(['Country']).sum()['QuantityOrdered']
+    df.to_csv('./data/temp/orders_by_country.csv')
 
-def create_global_figure(df):
-    year = data.Year[1]
-    df['QuantityOrdered'] = pd.to_numeric(df['QuantityOrdered'])
-    df['Country'] = df.index
+    df1 = pd.read_csv('./data/temp/orders_by_country.csv')
 
-    fig = px.choropleth(
-        df,
-        locations='Country',
-        locationmode="country names",
-        scope="world",
-        color="QuantityOrdered",
-        hover_name="Country",
-        color_continuous_scale='Viridis',
-        title=f"Global Sales {year}",
-        width=1000,
-    )
-    fig.update_layout(margin=dict(l=0, r=0, t=70, b=20), title={"font": {"size": 20}, "x":0.5},)
-    fig.write_image('./resources/world_sales.png', engine='kaleido')
+    new_data = dict(type='choropleth',
+                colorscale='Viridis',
+                reversescale=True,
+                locations=df1['Country'],
+                locationmode='country names',
+                z=df1['QuantityOrdered'],
+                text=df1['Country'],
+                colorbar={'title':'QuantityOrdered'})
+
+    layout = dict(title='World Orders Visualization')
+
+    choromap = go.Figure(data=[new_data], layout=layout)
+    # iplot(choromap, validate=False)
+    choromap.write_image('./resources/world_sales.png', engine='kaleido')
+
 
 # Question 6: Percentage of orders by product (pie chart)
 def pie_plot_products_orders_percentage():
@@ -142,5 +138,5 @@ def pie_plot_products_orders_percentage():
 # bar_plot_country_sales()
 # bar_plot_product_sales()
 # bar_plot_orders_vs_price()
-# map_plot_world_sales()
-pie_plot_products_orders_percentage()
+map_plot_world_sales()
+# pie_plot_products_orders_percentage()
