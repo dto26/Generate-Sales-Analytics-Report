@@ -1,4 +1,4 @@
-# Generate-Sales-Analytics-Report
+# Generate Sales Analytics Report
 
 Work in progress at the moment. Will be adapted later into a full Dash application.
 
